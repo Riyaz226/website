@@ -1,0 +1,210 @@
+@media only screen and (min-width:992px){
+.first{
+    width: 100%;
+    height: 610px;
+    background-color:#F3F8FF;
+}
+}
+@media only screen and (max-width:991px){
+    .first{
+        width: 100%;
+        height: 610px;
+        background-color:#F3F8FF;
+    }
+}
+@media only screen and (max-width:2660px){
+    .left-col{
+        display: flex;
+        padding-left: 32px;    
+    }
+    img.one{
+        width: 84px;
+        height: 76px;
+    }
+    .hub{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 39px;
+    line-height: 140%;
+    color: #121212;
+    padding-left: 2px;
+    margin-top:9px;
+    }
+}
+@media only screen and (max-width:1440px){
+    .left-col{
+       padding-left: 2px;    
+    }
+    
+    img.one{
+        width: 45px;
+        height: 40px;
+    }
+    .hub{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 21px;
+    line-height: 140%;
+    color: #121212;
+    padding-left: 1px;
+     margin-top:6px; 
+    }
+    .links{
+        display: flex;
+        flex-direction: row;
+        margin-left:-12px;
+        margin-top: 11px; 
+    }
+    .links >li{
+        list-style: none;
+        font-family: Heebo;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 16.3px;
+        line-height: 140%;
+        color: #222222;
+        margin-left: 32px;
+    }
+    img.two{
+        width: 37px;
+        height: 46px;
+        margin-left: 32px;
+    }
+    .right-col {
+        display: flex;
+        flex-direction: row;
+    }
+    .right-col > ul > li {
+   
+        list-style: none;
+    }
+    
+.no{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    color: #4088F7;
+}
+.tu{
+    position: absolute;
+width: 150px;
+height: 44px;
+border: 1px solid #4088F7;;
+border-radius: 4px;
+}
+.tu > div{
+    font-family: Heebo;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 140%;
+margin-top: 9.7px;
+color:  #4088F7;
+text-align: center;
+}
+.lo{
+    position: absolute;
+width: 100px;
+height: 45px;
+top: 196px;
+background: #4088F7;
+border-radius: 4px;
+}
+.lo > div{
+    font-family: Heebo;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 140%;
+color: white;
+text-align: center;
+margin-top: 9.7px;
+}
+    }
+    @media only screen and (max-width:1020px){
+        .left-col{
+            display: flex;
+            padding-left: 32px;
+            }
+        img.one{
+            width: 44px;
+            height: 40px;
+        }
+        .hub{
+        font-family: Heebo;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 19.8px;
+        line-height: 140%;
+        color: #121212;
+        padding-left: 2px;
+        margin-top:5px;
+        }
+}
+@media only screen and (max-width:768px){
+    .left-col{
+        display: flex;
+        padding-left: 18.2px;    
+    }
+    img.one{
+        width: 38px;
+        height: 33.8px;
+       
+    }
+    .hub{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18.5px;
+    line-height: 140%;
+    color: #121212;
+    padding-left: 1px;
+    margin-top:4px;
+    }    
+}
+@media only screen and (max-width:425px){
+    .left-col{
+        display: flex;
+        padding-left: 20px;
+        }
+    img.one{
+        width: 38px;
+        height: 34px;
+        
+    }
+    .hub{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 140%;
+    color: #121212;
+    padding-left: 1px;
+    margin-top:4.8px;
+    } 
+}
+@media only screen and (max-width:375px){
+    .left-col{
+        display: flex;
+        padding-left: 18px;
+        }
+    img.one{
+        width: 38px;
+        height: 33.8px;
+       
+    }
+    .hub{
+    font-family: Heebo;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 140%;
+    color: #121212;
+    padding-left: 1px;
+    margin-top:5px;
+    } 
+}       
