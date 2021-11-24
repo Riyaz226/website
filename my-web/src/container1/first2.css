@@ -2,15 +2,15 @@
 @media only screen and (max-width:2670px){
 .first{
     width: 2560px;
-    height: 610px;
+    height: 1153px;
     background-color:#F3F8FF;
    
 }
 }
 @media only screen and  (max-width:1440px){
     .first{
-       width: 1365px;
-        height: 610px;
+       width: 1345px;
+        height: 645px;
         background-color:#F3F8FF;
 
     }
@@ -19,7 +19,7 @@
 @media only screen and (max-width:1024px){
     .first{
         width: 1026px;
-        height: 610px;
+        height: 565px;
         background-color:#F3F8FF;
 
     }
@@ -27,7 +27,7 @@
 @media only screen and (max-width:768px){
     .first{
         width: 767px;
-        height: 610px;
+        height: 998px;
         background-color:#F3F8FF;
 
     }
@@ -36,7 +36,7 @@
     .first{
         position: absolute;
         width: 425px;
-        height: 610px;
+        height: 830px;
         background-color:#F3F8FF;
 
     }
@@ -45,7 +45,7 @@
     .first{
         position: absolute;
         width: 399px;
-        height: 610px;
+        height: 828px;
         background-color:#F3F8FF;
 
     }
@@ -54,7 +54,7 @@
 @media only screen and (max-width:2670px){
    .side-bar{
        padding-left: 82px;
-       padding-top: 43px;
+       padding-top: 50px;
    }
     .left-col{
         display: flex;
@@ -66,7 +66,6 @@
     }
     .hub{
     font-family: Heebo;
-    font-style: normal;
     font-weight: bold;
     font-size: 43px;
     line-height: 140%;
@@ -83,8 +82,7 @@
     .links >li{
         list-style: none;
         font-family: Heebo;
-        font-style: normal;
-        font-weight: 600;
+       font-weight: 600;
         font-size: 30px;
         line-height: 140%;
         color: #222222;
@@ -109,7 +107,6 @@
 
 .no{
     font-family: Heebo;
-    font-style: normal;
     font-weight: 600;
     font-size: 34px;
     line-height: 20px;
@@ -126,8 +123,6 @@ border-radius: 4px;
 }
 .tu > div{
     font-family: Heebo;
-font-style: normal;
-font-weight: normal;
 font-size: 34px;
 line-height: 140%;
 margin-top: 9.7px;
@@ -155,7 +150,123 @@ margin-top: 9.7px;
 
 .right-col2{
     display: none;
+}
+.story{
+    padding-left: 128px;
+    padding-top: 98px;
 }    
+.story > .smart{
+    font-family: Heebo;
+font-weight: bold;
+font-size: 78px;
+line-height: 120%;
+word-spacing: 4px;
+}  
+.smart > span{
+    color:  rgb(64, 136, 247);
+}
+.find{
+word-spacing: 2.5px;
+font-size: 35px;
+line-height: 140%;
+margin-top: -33px;
+color: #555555;
+}
+
+.box1{
+    cursor: pointer;
+    width: 828px;
+    height: 81px;
+    background-color: white;
+    box-shadow: rgb(174 194 221 / 70%) 0px 4px 10px;
+    border-radius: 4px;
+    overflow: hidden;
+} 
+
+img.four{
+  width: 82px;
+  margin-top: 10px;  
+}
+.box1 > .se{
+    margin-top: -54px;
+    margin-left: 76px;
+    color: #898989;
+    opacity: 0.6;
+    font-size: 32px;
+}
+.box1 > .lastc {
+     background: rgb(64, 136, 247);
+    color: rgb(255, 255, 255);
+   margin-left: 560px;
+   opacity: 1px;
+   margin-top: -94px;
+     height: 123px;
+     text-align: center;
+}
+.box1 > .lastc:last-child{
+    font-size: 30.5px;
+}
+.see{
+    position: relative;
+font-size: 33px;
+line-height: 28px;
+color: #0F2D46;
+word-spacing: 3px;
+}
+.see span:last-child{
+    color: black;
+    margin-left: 10px;
+}
+.boxes {
+display: flex;
+flex-direction: row;
+margin-top: 92px;
+margin-left: -64px;
+}
+.boxes > div {
+    width: 410px;
+height: 124px;
+    background: #BBD7FF;
+border-radius: 174px;
+margin-left: 64px;
+}
+
+img.five{
+    width: 98px;
+    height: 90px;
+    margin-left: 20px;
+    margin-top: 17px;
+}
+.boxes span > p{
+ font-weight: 500;
+font-size: 25.8px;
+line-height: 140%;
+color: #222222;
+margin-left: 116px;
+margin-top: -96px;
+width: 358px;
+}
+.boxes span >.ou{
+    width: 256px;
+    font-family: Heebo;
+font-size: 26px;
+line-height: 130%;
+color: #333333;
+margin-left: 118px;
+margin-top: -25px;
+}
+.boxes >.box2{
+    background-color: #FFD99F;
+}
+.boxes >.box3{
+    background-color: #FFBC9F;
+}
+img.six{
+    width: 756px;
+    float: right;
+    margin-top: -790px;
+    margin-right: 143px;
+}
 }
 @media only screen and (max-width:1440px){
     .side-bar{
@@ -174,7 +285,6 @@ margin-top: 9.7px;
     }
     .hub{
     font-family: Heebo;
-    font-style: normal;
     font-weight: bold;
     font-size: 21px;
     line-height: 140%;
@@ -191,7 +301,6 @@ margin-top: 9.7px;
     .links >li{
         list-style: none;
         font-family: Heebo;
-        font-style: normal;
         font-weight: 600;
         font-size: 17px;
         line-height: 140%;
@@ -217,7 +326,6 @@ margin-top: 9.7px;
 
 .no{
     font-family: Heebo;
-    font-style: normal;
     font-weight: 600;
     font-size: 14px;
     line-height: 20px;
@@ -234,8 +342,6 @@ border-radius: 4px;
 }
 .tu > div{
     font-family: Heebo;
-font-style: normal;
-font-weight: normal;
 font-size: 14px;
 line-height: 140%;
 margin-top: 9.7px;
@@ -262,26 +368,30 @@ margin-top: 9.7px;
 .right-col2{
     display: none;
 }
+.story{
+    padding-left: 76px;
+    padding-top: 64px;
+}
 .story > .smart{
     font-family: Heebo;
-font-style: normal;
 font-weight: bold;
 font-size: 45px;
 line-height: 120%;
 word-spacing: 3px;
 }  
 .smart > span{
-    color:  rgb(64, 136, 247);;
+    color:  rgb(64, 136, 247);
 }
 .find{
 word-spacing: 1.5px;
 font-size: 18px;
 line-height: 140%;
 margin-top: -33px;
+color: #555555;
 }
 
 .box1{
-cursor: pointer;
+    cursor: pointer;
     width: 503px;
     height: 51px;
     background-color: white;
@@ -294,18 +404,87 @@ img.four{
   width: 42px;
   margin-top: 10px;  
 }
+.box1 > .se{
+    font-size: 18px;
+    margin-top: -29px;
+    margin-left: 40px;
+    color: #898989;
+    opacity: 0.6;
+}
 .box1 > .lastc {
      background: rgb(64, 136, 247);
     color: rgb(255, 255, 255);
    margin-left: 362px;
    opacity: 1px;
+   margin-top: -54px;
      height: 123px;
-     margin-top: -98.5px;
      text-align: center;
 }
+.box1 > .lastc:last-child{
+    font-size: 18px;
+}
 
+.see{
+    position: relative;
+font-size: 18px;
+line-height: 23px;
+color: #0F2D46;
+word-spacing: 2px;
+}
+.see span:last-child{
+    color: black;
+    margin-left: 10px;
+}
+.boxes {
+display: flex;
+flex-direction: row;
+margin-top: 44px;
+margin-left: -30px;
+}
+.boxes > div {
+    width: 246px;
+height: 70px;
+    background: #BBD7FF;
+border-radius: 174px;
+margin-left: 22px;
+}
 
-
+img.five{
+    width: 56px;
+    height: 49px;
+    margin-left: 9px;
+    margin-top: 11px;
+}
+.boxes span > p{
+ font-weight: 500;
+font-size: 14px;
+line-height: 140%;
+color: #222222;
+margin-left: 68px;
+margin-top: -59px;
+width: 188px;
+}
+.boxes span >.ou{
+    width: 156px;
+    font-family: Heebo;
+font-size: 14px;
+line-height: 130%;
+color: #333333;
+margin-left: 69px;
+margin-top: -15px;
+}
+.boxes >.box2{
+    background-color: #FFD99F;
+}
+.boxes >.box3{
+    background-color: #FFBC9F;
+}
+img.six{
+    width: 406px;
+    float: right;
+    margin-top: -476px;
+    margin-right: 60px;
+}
 }
     @media only screen and (max-width:1024px){
         .side-bar{
@@ -411,6 +590,128 @@ img.four{
     
 .right-col2{
     display: none;
+}
+.story{
+    padding-left: 64px;
+    padding-top: 50px;
+}
+.story > .smart{
+font-size: 34px;
+line-height: 120%;
+word-spacing: 3px;
+text-align: center;
+margin-right: 393px;
+}  
+.smart > span{
+    color:  rgb(64, 136, 247);
+}
+.find{
+word-spacing: 1.5px;
+font-size: 15px;
+line-height: 140%;
+margin-top: -21px;
+color: #555555;
+text-align: center;
+margin-right:383px;
+}
+
+.box1{
+    cursor: pointer;
+    width: 443px;
+    height: 51px;
+    background-color: white;
+    box-shadow: rgb(174 194 221 / 70%) 0px 4px 10px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-left: 60px;
+} 
+
+img.four{
+  width: 42px;
+  margin-top: 10px;
+  margin-left:12px ;  
+}
+.box1 > .se{
+    font-size: 17px;
+    margin-top: -29px;
+    margin-left: 50px;
+    color: #898989;
+    opacity: 0.6;
+}
+.box1 > .lastc {
+     background: rgb(64, 136, 247);
+    color: rgb(255, 255, 255);
+   margin-left: 302px;
+   opacity: 1px;
+   margin-top: -54px;
+     height: 123px;
+     text-align: center;
+}
+.box1 > .lastc:last-child{
+    font-size: 18px;
+}
+
+.see{
+    position: relative;
+font-size: 18px;
+line-height: 23px;
+color: #0F2D46;
+word-spacing: 2px;
+margin-left: 64px;
+}
+.see span:last-child{
+    color: black;
+    margin-left: 10px;
+}
+.boxes {
+display: flex;
+flex-direction: row;
+margin-top: 36.8px;
+margin-left: -68px;
+}
+.boxes > div {
+    width: 248px;
+height: 70px;
+    background: #BBD7FF;
+border-radius: 174px;
+margin-left: 20px;
+}
+
+img.five{
+    width: 56px;
+    height: 49px;
+    margin-left: 9px;
+    margin-top: 12px;
+}
+.boxes span > p{
+ font-weight: 500;
+font-size: 14px;
+line-height: 140%;
+color: #222222;
+margin-left: 68px;
+margin-top: -59px;
+width: 188px;
+}
+.boxes span >.ou{
+    width: 156px;
+    font-family: Heebo;
+font-size: 14px;
+line-height: 130%;
+color: #333333;
+margin-left: 69px;
+margin-top: -15px;
+}
+.boxes >.box2{
+    background-color: #FFD99F;
+}
+.boxes >.box3{
+    background-color: #FFBC9F;
+}
+img.six{
+    width: 316px;
+    float: right;
+    margin-top: -446px;
+    margin-right: 45px;
 }   
 }
 @media only screen and (max-width:768px){
@@ -511,7 +812,130 @@ margin-top: 9.7px;
 }
 .right-col2{
     display: none;
+}
+img.six{
+    width: 366px;
+    float: right;
+    margin-top: -768px;
+    margin-right: 204px;
 }  
+ .story{
+    padding-left: 158px;
+    padding-top: 410px;
+} 
+.story > .smart{
+font-family: Heebo;
+font-weight: bold;
+font-size: 24px;
+line-height: 120%;
+word-spacing: 3px;
+margin-left: 13px;
+width: 428px;
+}  
+.smart > span{
+    color:  rgb(64, 136, 247);
+}
+.find{
+word-spacing: 1.5px;
+font-size: 18px;
+line-height: 140%;
+margin-top: -16px;
+color: #555555;
+width: 455px;
+}
+
+.box1{
+    cursor: pointer;
+    width: 503px;
+    height: 51px;
+    background-color: white;
+    box-shadow: rgb(174 194 221 / 70%) 0px 4px 10px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-left: -18px;
+} 
+
+img.four{
+  width: 46px;
+  margin-top: 8.8px;  
+}
+.box1 > .se{
+    font-size: 18px;
+    margin-top: -32px;
+    margin-left: 54px;
+    color: #898989;
+    opacity: 0.6;
+}
+.box1 > .lastc {
+     background: rgb(64, 136, 247);
+    color: rgb(255, 255, 255);
+   margin-left: 352px;
+   opacity: 1px;
+   margin-top: -54px;
+     height: 123px;
+     text-align: center;
+}
+.box1 > .lastc:last-child{
+    font-size: 18px;
+}
+
+.see{
+    position: relative;
+font-size: 18px;
+line-height: 23px;
+color: #0F2D46;
+word-spacing: 2px;
+margin-left: 8px;
+}
+.see span:last-child{
+    color: black;
+    margin-left: 10px;
+}
+.boxes {
+display: flex;
+flex-direction: row;
+margin-top: 34px;
+margin-left: -188px;
+}
+.boxes > div {
+    width: 246px;
+height: 70px;
+    background: #BBD7FF;
+border-radius: 174px;
+margin-left: 22px;
+}
+
+img.five{
+    width: 58px;
+    height: 50px;
+    margin-left: 13px;
+    margin-top: 11px;
+}
+.boxes span > p{
+ font-weight: 500;
+font-size: 14px;
+line-height: 140%;
+color: #222222;
+margin-left: 70px;
+margin-top: -59px;
+width: 188px;
+}
+.boxes span >.ou{
+    width: 156px;
+    font-family: Heebo;
+font-size: 14px;
+line-height: 130%;
+color: #333333;
+margin-left: 71px;
+margin-top: -15px;
+}
+.boxes >.box2{
+    background-color: #FFD99F;
+}
+.boxes >.box3{
+    background-color: #FFBC9F;
+}
+
 }
 @media only screen and (max-width:425px){
     .side-bar{
@@ -553,7 +977,131 @@ img.three{
   margin-left: 25px;
   font-size: 38px;  
 }    
+img.six{
+    width: 290px;
+    float: right;
+    margin-top: -722px;
+    margin-right: 62px;
+}  
+ .story{
+    padding-left: 0px;
+    padding-top: 294px;
+} 
+.story > .smart{
+font-family: Heebo;
+font-weight: bold;
+font-size: 24px;
+line-height: 120%;
+word-spacing: 3px;
+margin-left: 12px;
+width: 428px;
+}  
+.smart > span{
+    color:  rgb(64, 136, 247);
+}
+.find{
+word-spacing: 1.5px;
+font-size: 18px;
+line-height: 140%;
+margin-top: -16px;
+color: #555555;
+width: 325px;
+margin-left: 68px;
+}
 
+.box1{
+    cursor: pointer;
+    width: 323px;
+    height: 51px;
+    background-color: white;
+    box-shadow: rgb(174 194 221 / 70%) 0px 4px 10px;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-left: 68px;
+} 
+
+img.four{
+  width: 43px;
+  margin-top: 8.5px;  
+}
+.box1 > .se{
+    font-size: 14px;
+    margin-top: -28px;
+    margin-left: 54px;
+    color: #898989;
+    opacity: 0.6;
+}
+.box1 > .lastc {
+    background: rgb(64, 136, 247);
+    color: rgb(255, 255, 255);
+   margin-left: 212px;
+   opacity: 1px;
+   margin-top: -54px;
+     height: 123px;
+     text-align: center;
+}
+.box1 > .lastc:last-child{
+    font-size: 18px;
+    
+}
+
+.see{
+    position: relative;
+font-size: 18px;
+line-height: 23px;
+color: #0F2D46;
+word-spacing: 2px;
+margin-left: 72px;
+}
+.see span:last-child{
+    color: black;
+    margin-left: 10px;
+}
+.boxes {
+display: flex;
+flex-direction: row;
+margin-top: 34px;
+margin-left: 1px;
+}
+.boxes > div {
+    width: 218px;
+height: 70px;
+    background: #BBD7FF;
+border-radius: 174px;
+margin-left: 2px;
+}
+
+img.five{
+    width: 58px;
+    height: 50px;
+    margin-left: 10px;
+    margin-top: 11px;
+}
+.boxes span > p{
+ font-weight: 500;
+font-size: 14px;
+line-height: 140%;
+color: #222222;
+margin-left: 40px;
+margin-top: -59px;
+width: 188px;
+}
+.boxes span >.ou{
+    width: 156px;
+    font-family: Heebo;
+font-size: 14px;
+line-height: 130%;
+color: #333333;
+margin-left: 62px;
+margin-top: -15px;
+}
+.boxes >.box2{
+    background-color: #FFD99F;
+}
+.boxes >.box3{
+    background-color: #FFBC9F;
+    display: none;
+}
 }
 @media only screen and (max-width:375px){
     .side-bar{
@@ -593,5 +1141,130 @@ img.three{
          margin-top: 27.5px;
        margin-left: 12px;
        font-size: 38px;  
-     }   
+     }  
+     img.six{
+        width: 290px;
+        float: right;
+        margin-top: -722px;
+        margin-right: 57px;
+    }  
+     .story{
+        margin-left: -28px;
+        padding-top: 294px;
+    } 
+    .story > .smart{
+    font-family: Heebo;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 120%;
+    word-spacing: 3px;
+    margin-left: 10px;
+    width: 428px;
+    }  
+    .smart > span{
+        color:  rgb(64, 136, 247);
+    }
+    .find{
+    word-spacing: 1.5px;
+    font-size: 18px;
+    line-height: 140%;
+    margin-top: -16px;
+    color: #555555;
+    width: 325px;
+    margin-left: 68px;
+    }
+    
+    .box1{
+        cursor: pointer;
+        width: 323px;
+        height: 51px;
+        background-color: white;
+        box-shadow: rgb(174 194 221 / 70%) 0px 4px 10px;
+        border-radius: 4px;
+        overflow: hidden;
+        margin-left: 68px;
+    } 
+    
+    img.four{
+      width: 43px;
+      margin-top: 8.5px;  
+    }
+    .box1 > .se{
+        font-size: 14px;
+        margin-top: -28px;
+        margin-left: 54px;
+        color: #898989;
+        opacity: 0.6;
+    }
+    .box1 > .lastc {
+        background: rgb(64, 136, 247);
+        color: rgb(255, 255, 255);
+       margin-left: 212px;
+       opacity: 1px;
+       margin-top: -54px;
+         height: 123px;
+         text-align: center;
+    }
+    .box1 > .lastc:last-child{
+        font-size: 18px;
+        
+    }
+    
+    .see{
+        position: relative;
+    font-size: 18px;
+    line-height: 23px;
+    color: #0F2D46;
+    word-spacing: 2px;
+    margin-left: 72px;
+    }
+    .see span:last-child{
+        color: black;
+        margin-left: 10px;
+    }
+    .boxes {
+    display: flex;
+    flex-direction: row;
+    margin-top: 33px;
+    margin-left: 1px;
+    }
+    .boxes > div {
+        width: 218px;
+    height: 70px;
+        background: #BBD7FF;
+    border-radius: 174px;
+    margin-left: 2px;
+    }
+    
+    img.five{
+        width: 58px;
+        height: 50px;
+        margin-left: 10px;
+        margin-top: 11px;
+    }
+    .boxes span > p{
+     font-weight: 500;
+    font-size: 14px;
+    line-height: 140%;
+    color: #222222;
+    margin-left: 40px;
+    margin-top: -59px;
+    width: 188px;
+    }
+    .boxes span >.ou{
+        width: 156px;
+        font-family: Heebo;
+    font-size: 14px;
+    line-height: 130%;
+    color: #333333;
+    margin-left: 62px;
+    margin-top: -15px;
+    }
+    .boxes >.box2{
+        background-color: #FFD99F;
+    }
+    .boxes >.box3{
+        background-color: #FFBC9F;
+        display: none;
+    } 
 }       
