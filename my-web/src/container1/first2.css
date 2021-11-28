@@ -1,6 +1,6 @@
   
 @media only screen and (max-width:2670px){
-.first{
+.first-container{
     width: 2560px;
     height: 1153px;
     background-color:#F3F8FF;
@@ -8,7 +8,7 @@
 }
 }
 @media only screen and  (max-width:1440px){
-    .first{
+    .first-container{
        width: 1345px;
         height: 645px;
         background-color:#F3F8FF;
@@ -17,7 +17,7 @@
 }
 
 @media only screen and (max-width:1024px){
-    .first{
+    .first-container{
         width: 1026px;
         height: 565px;
         background-color:#F3F8FF;
@@ -25,28 +25,25 @@
     }
 }
 @media only screen and (max-width:768px){
-    .first{
+    .first-container{
         width: 767px;
-        height: 998px;
+        height: 908px;
         background-color:#F3F8FF;
 
     }
 }
 @media only screen and (max-width:425px){
-    .first{
-        position: absolute;
-        width: 425px;
-        height: 830px;
+    .first-container{
+       width: 425px;
+        height: 860px;
         background-color:#F3F8FF;
-
     }
 }
 @media only screen and (max-width:375px){
-    .first{
-        position: absolute;
+    .first-container{
         width: 399px;
         height: 828px;
-        background-color:#F3F8FF;
+        background-color:#F3F8FF; 
 
     }
 }
@@ -64,7 +61,7 @@
         width: 84px;
         height: 76px;
     }
-    .hub{
+.left-col >  .hub{
     font-family: Heebo;
     font-weight: bold;
     font-size: 43px;
@@ -73,13 +70,13 @@
     padding-left: 2px;
     margin-top:9px;
     }
-    .links{
+ .left-col>   .links{
         display: flex;
         flex-direction: row;
         margin-left:2px;
         margin-top: 22px; 
     }
-    .links >li{
+.left-col>   .links >li{
         list-style: none;
         font-family: Heebo;
        font-weight: 600;
@@ -105,7 +102,7 @@
   margin-top: -104px;
 }
 
-.no{
+.right-col >.no{
     font-family: Heebo;
     font-weight: 600;
     font-size: 34px;
@@ -113,7 +110,7 @@
     color: #4088F7;
     margin-top: 28px;
 } 
-.tu{
+.right-col>.tu{
     position: absolute;
 width: 330px;
 height: 84px;
@@ -121,7 +118,7 @@ height: 84px;
 border: 1px solid #4088F7;;
 border-radius: 4px;
 }
-.tu > div{
+.right-col >.tu > div{
     font-family: Heebo;
 font-size: 34px;
 line-height: 140%;
@@ -129,7 +126,7 @@ margin-top: 9.7px;
 color:  #4088F7;
 text-align: center;
 }
-.lo{
+.right-col >.lo{
     position: absolute;
 width: 220px;
 height: 84px;
@@ -137,7 +134,7 @@ background: #4088F7;
 border-radius: 4px;
  margin-left: 722px; 
 }
-.lo > div{
+.right-col >.lo > div{
     font-family: Heebo;
 font-style: normal;
 font-weight: 500;
@@ -162,10 +159,10 @@ font-size: 78px;
 line-height: 120%;
 word-spacing: 4px;
 }  
-.smart > span{
+.story >.smart > span{
     color:  rgb(64, 136, 247);
 }
-.find{
+.story >.find{
 word-spacing: 2.5px;
 font-size: 35px;
 line-height: 140%;
@@ -205,6 +202,7 @@ img.four{
 }
 .box1 > .lastc:last-child{
     font-size: 30.5px;
+    padding-top: 18px;
 }
 .see{
     position: relative;
@@ -252,7 +250,7 @@ width: 358px;
 font-size: 26px;
 line-height: 130%;
 color: #333333;
-margin-left: 118px;
+margin-left: 120px;
 margin-top: -25px;
 }
 .boxes >.box2{
@@ -283,7 +281,7 @@ img.six{
         width: 45px;
         height: 40px;
     }
-    .hub{
+    .left-col>.hub{
     font-family: Heebo;
     font-weight: bold;
     font-size: 21px;
@@ -292,13 +290,13 @@ img.six{
     padding-left: 1px;
      margin-top:6px; 
     }
-    .links{
+    .left-col>.links{
         display: flex;
         flex-direction: row;
         margin-left:-12px;
         margin-top: 10px; 
     }
-    .links >li{
+.left-col> .links >li{
         list-style: none;
         font-family: Heebo;
         font-weight: 600;
@@ -324,7 +322,7 @@ img.six{
   margin-top: -54px;
 }
 
-.no{
+.right-col >.no{
     font-family: Heebo;
     font-weight: 600;
     font-size: 14px;
@@ -332,7 +330,7 @@ img.six{
     color: #4088F7;
     margin-top: 11px;
 } 
-.tu{
+.right-col >.tu{
     position: absolute;
 width: 150px;
 height: 44px;
@@ -340,7 +338,7 @@ height: 44px;
 border: 1px solid #4088F7;;
 border-radius: 4px;
 }
-.tu > div{
+.right-col>.tu > div{
     font-family: Heebo;
 font-size: 14px;
 line-height: 140%;
@@ -348,7 +346,7 @@ margin-top: 9.7px;
 color:  #4088F7;
 text-align: center;
 }
-.lo{
+.right-col >.lo{
     position: absolute;
 width: 100px;
 height: 45px;
@@ -356,7 +354,7 @@ background: #4088F7;
 border-radius: 4px;
  margin-left: 334px; 
 }
-.lo > div{
+.right-col>.lo > div{
 font-weight: 500;
 font-size: 14px;
 line-height: 140%;
@@ -379,10 +377,10 @@ font-size: 45px;
 line-height: 120%;
 word-spacing: 3px;
 }  
-.smart > span{
+.story >.smart > span{
     color:  rgb(64, 136, 247);
 }
-.find{
+.story >.find{
 word-spacing: 1.5px;
 font-size: 18px;
 line-height: 140%;
@@ -406,7 +404,7 @@ img.four{
 }
 .box1 > .se{
     font-size: 18px;
-    margin-top: -29px;
+    margin-top: -30px;
     margin-left: 40px;
     color: #898989;
     opacity: 0.6;
@@ -422,6 +420,7 @@ img.four{
 }
 .box1 > .lastc:last-child{
     font-size: 18px;
+    padding-top: 11px;
 }
 
 .see{
@@ -460,7 +459,7 @@ img.five{
 font-size: 14px;
 line-height: 140%;
 color: #222222;
-margin-left: 68px;
+margin-left: 60px;
 margin-top: -59px;
 width: 188px;
 }
@@ -483,7 +482,7 @@ img.six{
     width: 406px;
     float: right;
     margin-top: -476px;
-    margin-right: 60px;
+    margin-right: 58px;
 }
 }
     @media only screen and (max-width:1024px){
@@ -499,7 +498,7 @@ img.six{
             width: 43px;
             height: 40px;
         }
-        .hub{
+        .left-col> .hub{
         font-family: Heebo;
         font-style: normal;
         font-weight: bold;
@@ -509,13 +508,13 @@ img.six{
         padding-left: 2px;
         margin-top:5px;
         }
-        .links{
+        .left-col> .links{
             display: flex;
             flex-direction: row;
             margin-left:-33px;
             margin-top: 11px; 
         }
-        .links >li{
+        .left-col>   .links >li{
             list-style: none;
             font-family: Heebo;
             font-style: normal;
@@ -542,7 +541,7 @@ img.six{
       margin-top: -54px;
     }
     
-    .no{
+    .right-col>   .no{
         font-family: Heebo;
         font-style: normal;
         font-weight: 600;
@@ -551,7 +550,7 @@ img.six{
         color: #4088F7;
         margin-top: 11px;
     } 
-    .tu{
+    .right-col>  .tu{
         position: absolute;
     width: 150px;
     height: 44px;
@@ -559,7 +558,7 @@ img.six{
     border: 1px solid #4088F7;;
     border-radius: 4px;
     }
-    .tu > div{
+    .right-col>   .tu > div{
         font-family: Heebo;
     font-style: normal;
     font-weight: normal;
@@ -569,7 +568,7 @@ img.six{
     color:  #4088F7;
     text-align: center;
     }
-    .lo{
+    .right-col>    .lo{
         position: absolute;
     width: 100px;
     height: 45px;
@@ -577,7 +576,7 @@ img.six{
     border-radius: 4px;
      margin-left: 334px; 
     }
-    .lo > div{
+    .right-col>   .lo > div{
         font-family: Heebo;
     font-style: normal;
     font-weight: 500;
@@ -602,10 +601,10 @@ word-spacing: 3px;
 text-align: center;
 margin-right: 393px;
 }  
-.smart > span{
+.story >.smart > span{
     color:  rgb(64, 136, 247);
 }
-.find{
+.story >.find{
 word-spacing: 1.5px;
 font-size: 15px;
 line-height: 140%;
@@ -724,7 +723,7 @@ img.six{
         height: 33.8px;
        margin-top: 2px;
     }
-    .hub{
+   .left-col> .hub{
     font-family: Heebo;
     font-style: normal;
     font-weight: bold;
@@ -733,13 +732,13 @@ img.six{
     color: #121212;
     margin-top:7px;
     }    
-    .links{
+   .left-col> .links{
         display: flex;
         flex-direction: row;
         margin-left:-34px;
         margin-top: 2px; 
     }
-    .links >li{
+   .left-col> .links >li{
         width: 52px;
         list-style: none;
         font-family: Heebo;
@@ -765,7 +764,7 @@ img.two{
     margin-left: 144px;
     margin-top: -3px;
 }
-.no{
+.right-col>.no{
     font-family: Heebo;
     font-style: normal;
     font-weight: 600;
@@ -774,7 +773,7 @@ img.two{
     color: #4088F7;
     margin-top: 11px;
 } 
-.tu{
+.right-col>.tu{
     position: absolute;
 width: 108px;
 height: 40px;
@@ -782,7 +781,7 @@ height: 40px;
 border: 1px solid #4088F7;;
 border-radius: 4px;
 }
-.tu > div{
+.right-col>.tu > div{
     font-family: Heebo;
 font-style: normal;
 font-weight: normal;
@@ -792,7 +791,7 @@ margin-top: 9.7px;
 color:  #4088F7;
 text-align: center;
 }
-.lo{
+.right-col>.lo{
     position: absolute;
 width: 70px;
 height: 40px;
@@ -800,7 +799,7 @@ background: #4088F7;
 border-radius: 4px;
  margin-left: 418px; 
 }
-.lo > div{
+.right-col>.lo > div{
     font-family: Heebo;
 font-style: normal;
 font-weight: 500;
@@ -832,10 +831,10 @@ word-spacing: 3px;
 margin-left: 13px;
 width: 428px;
 }  
-.smart > span{
+.story >.smart > span{
     color:  rgb(64, 136, 247);
 }
-.find{
+.story>.find{
 word-spacing: 1.5px;
 font-size: 18px;
 line-height: 140%;
@@ -916,7 +915,7 @@ img.five{
 font-size: 14px;
 line-height: 140%;
 color: #222222;
-margin-left: 70px;
+margin-left: 64px;
 margin-top: -59px;
 width: 188px;
 }
@@ -949,7 +948,7 @@ margin-top: -15px;
         width: 43px;
         height: 38px;
     }
-    .hub{
+    .left-col>  .hub{
         font-family: Heebo;
         font-style: normal;
         font-weight: bold;
@@ -959,7 +958,7 @@ margin-top: -15px;
         padding-left: 2px;
         margin-top:6.5px;
         } 
-.links,.right-col{
+.left-col>.links,.right-col{
    display: none;
 }
 .right-col2{
@@ -972,7 +971,7 @@ img.three{
     width: 130px;
     height: 87px;
 }  
-.ko{
+.right-col2>.ko{
     margin-top: 27.5px;
   margin-left: 25px;
   font-size: 38px;  
@@ -981,10 +980,10 @@ img.six{
     width: 290px;
     float: right;
     margin-top: -722px;
-    margin-right: 62px;
+    margin-right: 78px;
 }  
  .story{
-    padding-left: 0px;
+    margin-left:-178px;
     padding-top: 294px;
 } 
 .story > .smart{
@@ -999,7 +998,7 @@ width: 428px;
 .smart > span{
     color:  rgb(64, 136, 247);
 }
-.find{
+.story>.find{
 word-spacing: 1.5px;
 font-size: 18px;
 line-height: 140%;
@@ -1041,8 +1040,8 @@ img.four{
      text-align: center;
 }
 .box1 > .lastc:last-child{
-    font-size: 18px;
-    
+    font-size: 16px;
+    padding-top: 18px;
 }
 
 .see{
@@ -1061,7 +1060,7 @@ margin-left: 72px;
 display: flex;
 flex-direction: row;
 margin-top: 34px;
-margin-left: 1px;
+margin-left: 8px;
 }
 .boxes > div {
     width: 218px;
@@ -1114,7 +1113,7 @@ margin-top: -15px;
         width: 38px;
         height: 33.8px;
     }
-    .hub{
+   .left-col> .hub{
     font-family: Heebo;
     font-style: normal;
     font-weight: bold;
@@ -1124,7 +1123,7 @@ margin-top: -15px;
     padding-left: 1px;
     margin-top:5px;
     } 
-    .links,.right-col{
+   .left-col> .links,.right-col{
         display: none;
      }
      .right-col2{
@@ -1137,7 +1136,7 @@ margin-top: -15px;
          width: 130px;
          height: 87px;
      }  
-     .ko{
+  .right-col2>   .ko{
          margin-top: 27.5px;
        margin-left: 12px;
        font-size: 38px;  
@@ -1146,10 +1145,10 @@ margin-top: -15px;
         width: 290px;
         float: right;
         margin-top: -722px;
-        margin-right: 57px;
+        margin-right: 58px;
     }  
      .story{
-        margin-left: -28px;
+        margin-left: -186px;
         padding-top: 294px;
     } 
     .story > .smart{
@@ -1164,7 +1163,7 @@ margin-top: -15px;
     .smart > span{
         color:  rgb(64, 136, 247);
     }
-    .find{
+  .story>  .find{
     word-spacing: 1.5px;
     font-size: 18px;
     line-height: 140%;

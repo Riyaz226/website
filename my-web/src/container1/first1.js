@@ -10,8 +10,8 @@ import './first2.css';
 export default class First1 extends Component {
 render() {
     return (
-      <div class="first">
-        <div class="side-bar">
+      <div class="first-container">
+        <section class="side-bar">
                <div class="left-col">
                 <img className="one" src={img1} alt="busy"/>
                 <p className="hub">busyhubs</p>
@@ -35,9 +35,9 @@ render() {
              <p><img class="three" src={img3} alt="call"/></p>
              <p class="ko">&#8801;</p>
             </div>   
-      </div>
+      </section>
 
-      <div className="story">
+      <section className="story">
          <p class="smart">Smartest way to <span>learn</span> or<br/><span>skill up</span> a course</p>
         <p class="find">Find thousands of tutors with hundreds of courses were<br/> you can skill up and achieve your long time dream</p>
          <div className="box1">
@@ -70,7 +70,7 @@ render() {
         </span>
         </div>  
     </div>  
-    </div>   
+    </section>   
         <img class="six" src={img6} alt="company"/>    
     </div>
       )
