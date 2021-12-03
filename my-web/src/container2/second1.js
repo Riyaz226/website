@@ -101,7 +101,7 @@ render() {
             <p>1000+ Learning students </p>
             <p class="ou">Our Tutors are verified and qualified </p>
         </span> 
-      </div>*/} 
+      </div>
      </div>
      </div>   
          <img className="thirteen" src={img19} alt="all web"/>

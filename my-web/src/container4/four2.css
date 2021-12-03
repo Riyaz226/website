@@ -1,0 +1,330 @@
+@media only screen and (max-width:2670px){
+    .four-container{
+        width: 2560px;
+        height: 902px;
+        margin-top: 1px;
+        background-color:#2c3544;
+    }
+    }
+    @media only screen and  (max-width:1440px){
+        .four-container{
+           width: 1349px;
+            height: 442px;
+            margin-top:0px ;
+            background-color:#2c3544;
+        }
+        
+    }
+    
+    @media only screen and (max-width:1024px){
+        .four-container{
+            width: 1026px;
+            height: 432px;
+            background-color:#2c3544;
+         }
+    }
+    @media only screen and (max-width:768px){
+        .four-container{
+            width: 767px;
+            height: 432px;
+            background-color:#2c3544;
+        }
+    }
+    @media only screen and (max-width:425px){
+        .four-container{
+           width: 425px;
+            height: 568px;
+            background-color:#2c3544;
+        }
+    }
+    @media only screen and (max-width:375px){
+        .four-container{
+            width: 399px;
+            height: 566px;
+            background-color:#2c3544;
+       }
+    }
+    @media only screen and (max-width:2670px){
+        img.twentyfive{
+            width: 238px;
+            height: 286px;
+            margin-top: 618px;
+        }
+        img.twentysix{
+          width: 830px;
+          height: 632px;
+          margin-left: 58px;
+          margin-bottom: 170px;
+      }
+      img.twentynine{
+        display: none;
+     }
+      img.twentyseven{
+          width: 148px;
+          height: 178px;
+          margin-bottom: 666px;
+          margin-left: -78px;
+      }   
+      .four-container > section {
+          margin-left: 1228px;
+          margin-top: -781px;
+      }
+      .four-container > section > .ach{
+          font-family: Heebo;
+    font-weight: bold;
+    font-size: 52px;
+    line-height: 140%;
+    text-transform: capitalize;
+    color: #EAAB27;
+      } 
+      .four-container > section > .at{
+          width: 1084px;
+          font-family: Heebo;
+          font-size: 40px;
+          line-height: 140%;
+          color: white;
+          margin-top: -14px;
+          word-spacing: 1px;
+      }   
+      img.twentyeight{
+        width: 238px;
+        height: 292px;
+        float: right;
+          margin-right: 20px;
+          margin-top: -778px;
+      }   
+        }
+        @media only screen and  (max-width:1440px){
+          img.twentyfive{
+              width: 130px;
+              height: 176px;
+              margin-top: 225.8px;
+          }
+          img.twentysix{
+            width: 430px;
+            height: 328px;
+            margin-left: 58px;
+            margin-bottom: 70px;
+        }
+        img.twentynine{
+            display: none;
+         }
+        img.twentyseven{
+            width: 68px;
+            height: 90px;
+            margin-bottom: 326px;
+            margin-left: -12px;
+        }   
+        .four-container > section {
+            margin-left: 716px;
+            margin-top: -361px;
+        }
+        .four-container > section > .ach{
+            font-family: Heebo;
+      font-weight: bold;
+      font-size: 26px;
+      line-height: 140%;
+      text-transform: capitalize;
+      color: #EAAB27;
+        } 
+        .four-container > section > .at{
+            width: 484px;
+            font-family: Heebo;
+            font-size: 18px;
+            line-height: 140%;
+            color: white;
+            margin-top: -14px;
+            word-spacing: 1px;
+        }   
+        img.twentyeight{
+            width: 131px;
+            height: 186px;
+            float: right;
+            margin-right: 20px;
+            margin-top: -353px;
+        }
+        }
+        
+        @media only screen and (max-width:1024px){
+            img.twentyfive{
+                width: 128px;
+                height: 176px;
+                margin-top: 194px;
+            }
+            img.twentysix{
+              width: 416px;
+              height: 314px;
+              margin-left: 2px;
+              margin-bottom: 74px;
+          }
+          img.twentynine{
+            display: none;
+         }
+          img.twentyseven{
+              width: 64px;
+              height: 94px;
+              margin-bottom: 314px;
+              margin-left: -70px;
+          }   
+          .four-container > section {
+              margin-left: 572px;
+              margin-top: -360px;
+          }
+          .four-container > section > .ach{
+              font-family: Heebo;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 140%;
+        text-transform: capitalize;
+        color: #EAAB27;
+          } 
+          .four-container > section > .at{
+              width: 384px;
+              font-family: Heebo;
+              font-size: 18px;
+              line-height: 140%;
+              color: white;
+              margin-top: -14px;
+              word-spacing: 1px;
+          }   
+          img.twentyeight{
+              width: 131px;
+              height: 156px;
+              float: right;
+              margin-right: 10px;
+              margin-top: -397px;
+          }   
+        }
+        @media only screen and (max-width:768px){
+            img.twentyfive{
+                width: 108px;
+                height: 176px;
+                margin-top: 231px;
+            }
+            img.twentysix{
+              width: 318px;
+              height: 279px;
+              margin-left: -40px;
+              margin-bottom: 100px;
+          }
+          img.twentynine{
+           display: none;
+        }
+          img.twentyseven{
+              width: 50px;
+              height: 80px;
+              float: right;
+              margin-top: 213px;
+              margin-right: 15px;
+        }   
+          .four-container > section {
+              margin-left: 388px;
+              margin-top: -402px;
+          }
+          .four-container > section > .ach{
+              font-family: Heebo;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 140%;
+        text-transform: capitalize;
+        color: #EAAB27;
+          } 
+          .four-container > section > .at{
+              width: 334px;
+              font-family: Heebo;
+              font-size: 18px;
+              line-height: 140%;
+              color: white;
+              margin-top: -14px;
+              word-spacing: 1px;
+          }   
+          img.twentyeight{
+              width: 126px;
+              height: 150px;
+              float: right;
+              margin-right: 10px;
+              margin-top: -403px;
+          }     
+        }
+        @media only screen and (max-width:425px){
+            img.twentyfive,img.twentysix,img.twentyseven{
+             display: none;  
+            }
+            img.twentynine{
+                display: initial;
+              width: 348px;
+              height: 179px;
+              margin-left: 37px;
+              margin-top: 388px;
+          }
+          
+         .four-container > section {
+              margin-left: 38px;
+              margin-top:-488px;
+          }
+          .four-container > section > .ach{
+              font-family: Heebo;
+        font-weight: bold;
+        font-size: 21px;
+        line-height: 140%;
+        text-transform: capitalize;
+        color: #EAAB27;
+          } 
+          .four-container > section > .at{
+              width: 334px;
+              font-family: Heebo;
+              font-size: 14px;
+              line-height: 140%;
+              color: white;
+              margin-top: -14px;
+              word-spacing: 1px;
+          }    
+          img.twentyeight{
+              width: 116px;
+              height: 140px;
+              float: right;
+              margin-right: 8px;
+              margin-top: -378px;
+          }   
+        }
+        @media only screen and (max-width:375px){
+            img.twentyfive,img.twentysix,img.twentyseven{
+                display: none;  
+               }
+               img.twentynine{
+                   display: initial;
+                 width: 348px;
+                 height: 179px;
+                 margin-left: 26px;
+                 margin-top: 386px;
+             }
+             
+            .four-container > section {
+                 margin-left: 32px;
+                 margin-top:-493px;
+             }
+             .four-container > section > .ach{
+                 font-family: Heebo;
+           font-weight: bold;
+           font-size: 22px;
+           line-height: 140%;
+           text-transform: capitalize;
+           color: #EAAB27;
+             } 
+             .four-container > section > .at{
+                 width: 334px;
+                 font-family: Heebo;
+                 font-size: 15px;
+                 line-height: 140%;
+                 color: white;
+                 margin-top: -14px;
+                 word-spacing: 1px;
+             }    
+             img.twentyeight{
+                 width: 108px;
+                 height: 140px;
+                 float: right;
+                 margin-right: 8px;
+                 margin-top: -376px;
+             }   
+        }

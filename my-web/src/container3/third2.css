@@ -1,39 +1,40 @@
-/* @media only screen and (max-width:2670px){
+@media only screen and (max-width:2670px){
     .third-container{
         width: 2560px;
-        height: 1123px;
-        margin-top: 28px;
+        height: 902px;
+        margin-top: 40px;
         background-color: #4FC2F8;
     }
     }
     @media only screen and  (max-width:1440px){
         .third-container{
-           width: 1345px;
-            height: 515px;
-            margin-top: 22px;
+           width: 1349px;
+            height: 442px;
+            margin-top: 25px;
             background-color: #4FC2F8;
         }
+        
     }
     
     @media only screen and (max-width:1024px){
         .third-container{
             width: 1026px;
             height: 515px;
-            margin-top: 20px;
+            margin-top: 22px;
             background-color: #4FC2F8;
          }
     }
     @media only screen and (max-width:768px){
         .third-container{
             width: 767px;
-            height: 838px;
+            height: 482px;
             background-color: #4FC2F8;
         }
     }
     @media only screen and (max-width:425px){
         .third-container{
            width: 425px;
-            height: 820px;
+            height: 508px;
             margin-top: 21px;
             background-color: #4FC2F8;
         }
@@ -41,7 +42,535 @@
     @media only screen and (max-width:375px){
         .third-container{
             width: 399px;
-            height: 468px;
+            height: 506px;
             background-color: #4FC2F8;
         }
-    } */
+    }
+    @media only screen and (max-width:2670px){
+        .third-container>div{
+            margin-left: 154px;
+            padding-top: 57px;
+        }
+        .third-container> div>.te{
+        font-family: Heebo;
+        font-weight: bold;
+        font-size: 42.5px;
+        line-height: 140%;
+        text-transform: capitalize;
+        color: #FFFFFF;
+       }   
+       .third-container> div> .lo{
+        font-family: Heebo;
+        font-size: 36px;
+        line-height: 130%;
+        color: #FFFFFF;
+        word-spacing: 2px;
+        margin-top: -46px;
+       }  
+       img.twenty{
+           width: 228px;
+           float: right;
+           margin-top: -800px;
+           margin-right: 188px;
+       }
+       .box9-contact{
+           display: flex;
+           flex-direction: row;
+           margin-left: -58px;
+       }
+       .box9-contact > div{
+        width: 676px;
+        height: 602px;
+        background: #FFFFFF;
+        border-radius: 8px;
+        margin-left: 62px;
+       }
+       img.twentyone{
+           width: 134px;
+           margin-left: 46px;
+           margin-top: 18px;
+       }
+       img.twentytwo{
+        width: 128px;
+        margin-left: 26px;
+        margin-top: 12px;
+    }
+      .box9-contact > div > span .ka{
+        font-family: Heebo;
+        font-weight: bold;
+        font-size: 34px;
+        line-height: 140%;
+        color: rgba(51, 51, 51, 0.99);
+        margin-left: 188px;
+        margin-top: -106px;   
+    }
+       .box9-contact > div > span .le{
+        font-family: Heebo;
+        font-size: 29px;
+        line-height: 140%;
+        color: #555555;
+        margin-top: -41px;
+        margin-left: 188px;
+        word-spacing: 2px;
+       }
+       .box9-contact > div > span .ih{
+        width: 592px;
+        font-family: Heebo;
+        font-size: 30px;
+         line-height: 150%;
+         color: #666666;
+        margin-left: 38px;
+        margin-top: -7px;
+        }
+        img.twentythree{
+            width: 120px;
+            float: left;
+            margin-top: -368px;
+            margin-left: 90px;
+        }
+        img.twentyfour{
+            width: 118px;
+            float: right;
+            margin-top: -374px;
+            margin-right: 188px;
+        }  
+        }
+    @media only screen and  (max-width:1440px){
+      
+        .third-container>div{
+            margin-left: 68px;
+            padding-top: 23px;
+        }
+        .third-container> div>.te{
+        font-family: Heebo;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 140%;
+        text-transform: capitalize;
+        color: #FFFFFF;
+       }   
+       .third-container> div> .lo{
+        font-family: Heebo;
+        font-size: 20px;
+        line-height: 130%;
+        color: #FFFFFF;
+        word-spacing: 1px;
+        margin-top: -26px;
+       }  
+       img.twenty{
+           width: 128px;
+           float: right;
+           margin-top: -403px;
+           margin-right: 54px;
+       }
+       .box9-contact{
+           display: flex;
+           flex-direction: row;
+           margin-left: -28px;
+       }
+       .box9-contact > div{
+        width: 392px;
+        height: 290px;
+        background: #FFFFFF;
+        border-radius: 8px;
+        margin-left: 22px;
+       }
+       img.twentyone{
+           width: 72px;
+           margin-left: 23px;
+           margin-top: 8px;
+       }
+       img.twentytwo{
+        width: 66px;
+        margin-left: 23px;
+        margin-top: 10px;
+    }
+      .box9-contact > div > span .ka{
+        font-family: Heebo;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 140%;
+        color: rgba(51, 51, 51, 0.99);
+        margin-left: 100px;
+        margin-top: -57px;   
+    }
+       .box9-contact > div > span .le{
+        font-family: Heebo;
+        font-size: 17px;
+        line-height: 140%;
+        color: #555555;
+        margin-top: -23px;
+        margin-left: 100px;
+       }
+       .box9-contact > div > span .ih{
+        width: 376px;
+        font-family: Heebo;
+        font-size: 14px;
+         line-height: 150%;
+         color: #666666;
+        margin-left: 10px;
+        margin-top: -9px;
+        }
+        img.twentythree{
+            width: 57px;
+            float: left;
+            margin-top: -180px;
+            margin-left: 28px;
+        }
+        img.twentyfour{
+            width: 58px;
+            float: right;
+            margin-top: -185.9px;
+            margin-right: 32px;
+        }
+    }
+        
+        @media only screen and (max-width:1024px){
+            .third-container>div{
+                margin-left: 36px;
+                padding-top: 21px;
+            }
+            .third-container> div>.te{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 24px;
+            line-height: 140%;
+            text-transform: capitalize;
+            color: #FFFFFF;
+           }   
+           .third-container> div> .lo{
+            font-family: Heebo;
+            font-size: 19px;
+            line-height: 130%;
+            color: #FFFFFF;
+            word-spacing: 1px;
+            margin-top: -26px;
+           }  
+           img.twenty{
+               width: 113px;
+               float: right;
+               margin-top: -468px;
+               margin-right: 54px;
+           }
+           .box9-contact{
+               display: flex;
+               flex-direction: row;
+               margin-left: -30px;
+           }
+           .box9-contact > div{
+            width: 308px;
+            height: 366px;
+            background: #FFFFFF;
+            border-radius: 8px;
+            margin-left: 22px;
+           }
+           img.twentyone{
+               width: 70px;
+               margin-left: 22px;
+               margin-top: 9px;
+           }
+           img.twentytwo{
+            width: 64px;
+            margin-left: 23px;
+            margin-top: 10.8px;
+        }
+          .box9-contact > div > span .ka{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 17px;
+            line-height: 140%;
+            color: rgba(51, 51, 51, 0.99);
+            margin-left: 98px;
+            margin-top: -54px;   
+        }
+           .box9-contact > div > span .le{
+            font-family: Heebo;
+            font-size: 16px;
+            line-height: 140%;
+            color: #555555;
+            margin-top: -23px;
+            margin-left: 98px;
+           }
+           .box9-contact > div > span .ih{
+            width: 284px;
+            font-family: Heebo;
+            font-size: 14px;
+             line-height: 150%;
+             color: #666666;
+            margin-left: 11px;
+            margin-top: -9px;
+            }
+            img.twentythree{
+                width: 54.8px;
+                float: left;
+                margin-top: -211px;
+                margin-left: -3px;
+            }
+            img.twentyfour{
+                width: 55.8px;
+                float: right;
+                margin-top: -211px;
+                margin-right: 2px;
+            }     
+        }
+        @media only screen and (max-width:768px){
+            .third-container>div{
+                margin-left: 43px;
+                padding-top: 21px;
+            }
+            .third-container> div>.te{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 23px;
+            line-height: 140%;
+            text-transform: capitalize;
+            color: #FFFFFF;
+           }   
+           .third-container> div> .lo{
+            font-family: Heebo;
+            font-size: 18px;
+            line-height: 130%;
+            color: #FFFFFF;
+            word-spacing: 1px;
+            margin-top: -26px;
+           }  
+           img.twenty{
+               width: 103px;
+               float: right;
+               margin-top: -430px;
+               margin-right: 54px;
+           }
+           .box9-contact{
+               display: flex;
+               flex-direction: row;
+               margin-left: -24px;
+           }
+           .box9-contact > div{
+            width: 321px;
+            height: 339px;
+            background: #FFFFFF;
+            border-radius: 8px;
+            margin-left: 26px;
+           }
+           .box9-contact >.bo3{
+            display: none;
+        }
+           img.twentyone{
+               width: 70px;
+               margin-left: 22px;
+               margin-top: 9px;
+           }
+           img.twentytwo{
+            width: 64px;
+            margin-left: 23px;
+            margin-top: 10.8px;
+        }
+          .box9-contact > div > span .ka{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 17px;
+            line-height: 140%;
+            color: rgba(51, 51, 51, 0.99);
+            margin-left: 98px;
+            margin-top: -54px;   
+        }
+           .box9-contact > div > span .le{
+            font-family: Heebo;
+            font-size: 16px;
+            line-height: 140%;
+            color: #555555;
+            margin-top: -22px;
+            margin-left: 98px;
+           }
+           .box9-contact > div > span .ih{
+            width: 304px;
+            font-family: Heebo;
+            font-size: 14px;
+             line-height: 150%;
+             color: #666666;
+            margin-left: 16px;
+            margin-top: -9px;
+            }
+             
+            img.twentythree{
+                width: 57px;
+                float: left;
+                margin-top: -198px;
+                margin-left: 12px;
+            }
+            img.twentyfour{
+                width: 58px;
+                float: right;
+                margin-top: -198px;
+                margin-right: 24px;
+            }  
+        }
+        @media only screen and (max-width:425px){
+            .third-container>div{
+                margin-left: 48px;
+                padding-top: 19.8px;
+            }
+            .third-container> div>.te{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 23px;
+            line-height: 140%;
+            text-transform: capitalize;
+            color: #FFFFFF;
+           }   
+           .third-container> div> .lo{
+            width: 293px;
+            font-family: Heebo;
+            font-size: 18.8px;
+            line-height: 130%;
+            color: #FFFFFF;
+            word-spacing: 1px;
+            margin-top: -26px;
+           }  
+           img.twenty,.box9-contact > .bo2, .bo3{
+            display: none;
+            } 
+         .box9-contact{
+               display: flex;
+               flex-direction: row;
+               margin-left: -26px;
+           }
+           .box9-contact > div{
+            width: 323px;
+            height: 340px;
+            background: #FFFFFF;
+            border-radius: 8px;
+            margin-left: 26px;
+           }
+           
+           img.twentyone{
+               width: 74px;
+               margin-left: 26px;
+               margin-top: 12px;
+           }
+        
+          .box9-contact > div > span .ka{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 17px;
+            line-height: 140%;
+            color: rgba(51, 51, 51, 0.99);
+            margin-left: 100px;
+            margin-top: -56px;   
+        }
+           .box9-contact > div > span .le{
+            font-family: Heebo;
+            font-size: 16px;
+            line-height: 140%;
+            color: #555555;
+            margin-top: -22px;
+            margin-left: 100px;
+           }
+           .box9-contact > div > span .ih{
+            width: 304px;
+            font-family: Heebo;
+            font-size: 14px;
+             line-height: 150%;
+             color: #666666;
+            margin-left: 16px;
+            margin-top: -9px;
+            }
+            
+            img.twentythree{
+                width: 57px;
+                float: left;
+                margin-top: -203px;
+                margin-left: 15px;
+            }
+            img.twentyfour{
+                width: 58px;
+                float: right;
+                margin-top: -208px;
+                margin-right: 23px;
+            }    
+        }
+        @media only screen and (max-width:375px){
+            .third-container>div{
+                margin-left: 38px;
+                padding-top: 18px;
+            }
+            .third-container> div>.te{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 22px;
+            line-height: 140%;
+            text-transform: capitalize;
+            color: #FFFFFF;
+           }   
+           .third-container> div> .lo{
+            width: 293px;
+            font-family: Heebo;
+            font-size: 17.8px;
+            line-height: 130%;
+            color: #FFFFFF;
+            word-spacing: 1px;
+            margin-top: -24px;
+           }  
+           img.twenty,.box9-contact > .bo2, .bo3{
+            display: none;
+            } 
+         .box9-contact{
+               display: flex;
+               flex-direction: row;
+               margin-left: -26px;
+           }
+           .box9-contact > div{
+            width: 323px;
+            height: 344px;
+            background: #FFFFFF;
+            border-radius: 8px;
+            margin-left: 26px;
+           }
+           
+           img.twentyone{
+               width: 75px;
+               margin-left: 27px;
+               margin-top: 17px;
+           }
+        
+          .box9-contact > div > span .ka{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 17.8px;
+            line-height: 140%;
+            color: rgba(51, 51, 51, 0.99);
+            margin-left: 100px;
+            margin-top: -58px;   
+        }
+           .box9-contact > div > span .le{
+            font-family: Heebo;
+            font-size: 16.8px;
+            line-height: 140%;
+            color: #555555;
+            margin-top: -22px;
+            margin-left: 100px;
+            word-spacing: 1px;
+           }
+           .box9-contact > div > span .ih{
+            width: 304px;
+            font-family: Heebo;
+            font-size: 14px;
+             line-height: 150%;
+             color: #666666;
+            margin-left: 16px;
+            margin-top: -8.8px;
+            }
+            
+            img.twentythree{
+                width: 57px;
+                float: left;
+                margin-top: -203px;
+                margin-left: 6px;
+            }
+            img.twentyfour{
+                width: 58px;
+                float: right;
+                margin-top: -208px;
+                margin-right: 7.8px;
+            }   
+        }

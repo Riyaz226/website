@@ -429,7 +429,7 @@ color: white;
     }
 @media only screen and  (max-width:1440px){
     .second-container{
-        padding-left: 70px;
+        padding-left: 74px;
         padding-top: 14.8px;
         padding-right: 0px;
         padding-bottom: 0px;
@@ -860,7 +860,7 @@ margin-top: -20px;
 @media only screen and (max-width:1024px){
     .second-container{
         padding-left: 70px;
-        padding-top: 14.8px;
+        padding-top: 12.8px;
         padding-right: 0px;
         padding-bottom: 0px;
     }
@@ -1285,7 +1285,7 @@ margin-top: -20px;
     }
 @media only screen and (max-width:768px){
     .second-container{
-        padding-left: 38px;
+        padding-left: 36px;
         padding-top: 13px;
         padding-right: 0px;
         padding-bottom: 0px;

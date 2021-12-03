@@ -1,0 +1,1183 @@
+@media only screen and (max-width:2670px){
+     .six-container > .images3 {
+        margin-left: 1px;
+        margin-top: 78px;
+     }   
+    img.thirtyfour { 
+     width: 570px;
+     height: 414px;  
+     }
+     img.thirtyfive { 
+         width: 654px;
+         height: 414px;
+         margin-top: 54px;  
+     } 
+     img.thirtyeight,img.thirtynine{
+         display: none;
+     }
+      .six-container > .rei{
+         margin-top: -706px;
+     }     
+      .six-container > .rei > .reg{
+         font-family: Heebo;
+         font-weight: bold;
+         font-size: 43px;
+         line-height: 140%;
+         text-transform: capitalize;
+         color: #222222; 
+         text-align: center;
+         word-spacing: 2px;  
+      } 
+      .six-container > .rei > .jo{
+         font-family: Heebo;
+         font-size: 38px;
+         line-height: 140%;
+         color: #333333;
+         word-spacing: 3px;
+         text-align: center;
+         margin-top: -43px;
+     }    
+     .six-container > .rei > .th{
+         width: 724px;
+         font-family: Heebo;
+          font-size: 34px;
+         line-height: 150%;
+         color: #555555;
+         word-spacing: 3px;
+         text-align: center;
+         margin-left: 914px;
+         margin-top: -4px;
+     } 
+     .box10{
+        width: 214px;
+    height: 68px;
+     background: #4088F7;
+    border-radius: 2px;
+    margin-left: 1169px;
+   }
+    .box10>p  {
+        font-family: Heebo;
+    font-weight: 500;
+    line-height: 140%;
+    font-size: 26px;
+    line-height: 140%;
+    text-align: center;
+    padding-top: 14px;
+    color: white;
+    }
+     .six-container > .images4 {
+         float: right;
+         margin-top: -720px;
+      }  
+      img.thirtysix { 
+        width: 570px;
+        height: 414px;
+        margin-left: 89px;  
+        }
+        img.thirtyseven { 
+            width: 654px;
+            height: 414px;
+            margin-top: 56px;  
+        }
+        
+        img.fourty,img.fourtyone{
+            display: none;
+        } 
+        .box10-contact{
+            display: flex;
+            flex-direction: row;
+            margin-left: 102px;
+            margin-top: 296px;
+    }
+       .box10-contact > div{
+            width: 1094px;
+            height: 488px;
+            background: #BEEAFF;
+            border-radius: 8px;
+            margin-left: 52px;        
+        }
+        .box10-cont > div {
+            margin-left: 249px;
+            padding-top: 30px;
+        }    
+        .box10-cont >div>.cu{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 46px;
+            line-height: 140%;
+            color: #222222;
+            margin-left: 87px; 
+            word-spacing: 2px; 
+        }
+        .box10-cont >div>.cu1{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 46px;
+            line-height: 140%;
+            color: #222222;
+            margin-left: 146px;  
+        }
+        .box10-cont >div >.or{
+            width: 544px;
+            font-family: Heebo;
+            font-size: 36px;
+            line-height: 140%;
+            color: #555555;
+            text-align: center;  
+            word-spacing: 2px;
+            margin-top: -37px;
+        }
+        .box11{
+            width: 213px;
+        height: 70px;
+         background:#2C3544;
+        border-radius: 2px;
+        margin-left: 166px;
+        margin-top: -4px;
+    }
+        .box11>p  {
+            font-family: Heebo;
+        font-weight: 500;
+        line-height: 140%;
+        font-size: 30px;
+        line-height: 140%;
+        text-align: center;
+        padding-top: 9px;
+        color: white;
+        padding-right: 4px;
+        } 
+        .last{
+            margin-left: 168px;
+            margin-top: 65px;
+          }
+     .last > div{
+         display: flex;
+         flex-direction: row;
+         margin-top: 43px;
+     } 
+        .last >div >.fourtytwo{
+          width: 104px;
+          height: 90px;
+      }  
+      .last > div >.po{
+        font-family: Heebo;
+        font-weight: bold;
+        font-size: 44px;
+        line-height: 140%;
+        color: #121212;
+        margin-top: 13px;
+      }
+      .last > div >.nv{
+          width: 494px;
+          height: 86px;
+        font-family: Heebo;
+        font-size: 32px;
+        line-height: 20px;
+        color: #2F2E36;
+        word-spacing: 8px;
+        margin-left: -264px;
+        margin-top: 117px;
+      }
+      
+      .li{
+          margin-left:518px;
+          margin-top: -43px;
+      }
+      .li > ul{
+          margin-top: -282px;
+        margin-left: 164px;
+      }
+      .li > ul > p,.nm2{
+        font-family: Heebo;
+        font-weight: bold;
+        font-size: 38.6px;
+        line-height: 20px;
+        color: #121212;
+      }
+      .li > ul > li{
+          list-style: none;
+        font-family: Heebo;
+        font-size: 31px;
+        line-height: 20px;
+        color: #2F2E36;
+        margin-top: 42px;
+      }
+       img.fourtythree{
+          width: 278px;
+          height: 56px;
+          margin-left: -27.5px;
+      }
+      img.fourtyfour{
+        width: 296px;
+        height: 184px;
+        margin-top: 23px;
+        margin-left: -17.5px;
+    } 
+    }
+    @media only screen and  (max-width:1440px){
+    .six-container > .images3 {
+       margin-left: 1px;
+       margin-top: 38px;
+    }  
+   img.thirtyfour { 
+    width: 280px;
+    height: 214px;  
+    }
+    img.thirtyfive { 
+        width: 350px;
+        height: 214px;
+        margin-top: 25px;  
+    } 
+    img.thirtyeight,img.thirtynine{
+        display: none;
+    }
+    
+    .six-container > .rei{
+        margin-top: -372px;
+    }    
+     .six-container > .rei > .reg{
+        font-family: Heebo;
+        font-weight: bold;
+        font-size: 24px;
+        line-height: 140%;
+        text-transform: capitalize;
+        color: #222222; 
+        text-align: center;  
+     } 
+     .six-container > .rei > .jo{
+        font-family: Heebo;
+        font-size: 20px;
+        line-height: 140%;
+        color: #333333;
+        word-spacing: 3px;
+        text-align: center;
+        margin-top: -24px;
+    }    
+    .six-container > .rei > .th{
+        width: 434px;
+        font-family: Heebo;
+         font-size: 18px;
+        line-height: 150%;
+        color: #555555;
+        word-spacing: 2px;
+        text-align: center;
+        margin-left: 459px;
+        margin-top: -4px;
+    } 
+    .box10{
+        width: 164px;
+    height: 50px;
+     background: #4088F7;
+    border-radius: 2px;
+    margin-left: 594px;
+    margin-top: 34px;    
+}
+    .box10>p  {
+        font-family: Heebo;
+    font-weight: 500;
+    line-height: 140%;
+    font-size: 18px;
+    line-height: 140%;
+    text-align: center;
+    padding-top: 12px;
+    color: white;
+    padding-right: 4px;
+    }
+    .six-container > .images4 {
+        float: right;
+        margin-top: -385px;
+     }  
+    img.thirtysix { 
+     width: 280px;
+     height: 214px;  
+     }
+     img.thirtyseven { 
+         width: 350px;
+         height: 218px;
+         margin-top: 28px;  
+     }
+     img.fourty,img.fourtyone{
+        display: none;
+    }  
+    .box10-contact{
+        display: flex;
+        flex-direction: row;
+        margin-left: 50px;
+        margin-top: 172px;
+}
+   .box10-contact > div{
+        width: 544px;
+        height: 284px;
+        background: #BEEAFF;
+        border-radius: 8px;
+        margin-left: 52px;        
+    }
+    .box10-cont > div {
+        margin-left: 120px;
+        padding-top: 22.8px;
+    }    
+    .box10-cont >div>.cu{
+        font-family: Heebo;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 140%;
+        color: #222222;
+        margin-left: 58px;  
+    }
+    .box10-cont >div>.cu1{
+        font-family: Heebo;
+        font-weight: bold;
+        font-size: 26px;
+        line-height: 140%;
+        color: #222222;
+        margin-left: 86.8px;  
+    }
+    .box10-cont >div >.or{
+        width: 324px;
+        font-family: Heebo;
+        font-size: 19px;
+        line-height: 140%;
+        color: #555555;
+        text-align: center;  
+        word-spacing: 2px;
+        margin-top: -23px;
+    }
+    .box11{
+        width: 144px;
+    height: 50px;
+     background:#2C3544;
+    border-radius: 2px;
+    margin-left: 89.8px;
+    margin-top: -5px;
+}
+    .box11>p  {
+        font-family: Heebo;
+    font-weight: 500;
+    line-height: 140%;
+    font-size: 20px;
+    line-height: 140%;
+    text-align: center;
+    padding-top: 9px;
+    color: white;
+    padding-right: 4px;
+    }
+    .last{
+        margin-left: 78px;
+        margin-top: 6.8px;  
+    }
+ .last > div{
+     display: flex;
+     flex-direction: row;
+     margin-top: 43px;
+ } 
+    .last >div >.fourtytwo{
+      width: 54px;
+      height: 50px;
+  }  
+  .last > div >.po{
+    font-family: Heebo;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 140%;
+    color: #121212;
+    margin-top: 8.5px;
+  }
+  .last > div >.nv{
+      width: 294px;
+    font-family: Heebo;
+    font-size: 18px;
+    line-height: 20px;
+    color: #2F2E36;
+    word-spacing: 6px;
+    margin-left: -140px;
+    margin-top: 63px;
+  }
+  
+  .li{
+      margin-left:263px;
+      margin-top: -43px;
+  }
+  .li > ul{
+      margin-top: -212px;
+    margin-left: 64px;
+  }
+  .li > ul > p,.nm2{
+    font-family: Heebo;
+    font-weight: bold;
+    font-size: 18.6px;
+    line-height: 20px;
+    color: #121212;
+  }
+  .li > ul > li{
+      list-style: none;
+    font-family: Heebo;
+    font-size: 18.5px;
+    line-height: 20px;
+    color: #2F2E36;
+    margin-top: 17.8px;
+  }
+   img.fourtythree{
+      width: 164px;
+      height: 34px;
+      margin-left: -17.5px;
+  }
+  img.fourtyfour{
+    width: 190px;
+    height: 106px;
+    margin-top: 14px;
+    margin-left: -17.5px;
+}
+}
+    
+    @media only screen and (max-width:1024px){
+        .six-container > .images3 {
+            margin-left: 1px;
+            margin-top: 38px;
+         }  
+        img.thirtyfour { 
+         width: 236px;
+         height: 188px;  
+         }
+         img.thirtyfive { 
+             width: 292px;
+             height: 178px;
+             margin-top: 25px;  
+         } 
+         img.thirtyeight,img.thirtynine{
+            display: none;
+        }
+       
+         .six-container > .rei{
+             margin-top: -322px;
+         }    
+          .six-container > .rei > .reg{
+             font-family: Heebo;
+             font-weight: bold;
+             font-size: 22px;
+             line-height: 140%;
+             text-transform: capitalize;
+             color: #222222; 
+             text-align: center;  
+          } 
+          .six-container > .rei > .jo{
+             font-family: Heebo;
+             font-size: 18px;
+             line-height: 140%;
+             color: #333333;
+             word-spacing: 3px;
+             text-align: center;
+             margin-top: -24px;
+         }    
+         .six-container > .rei > .th{
+             width: 434px;
+             font-family: Heebo;
+              font-size: 18px;
+             line-height: 150%;
+             color: #555555;
+             word-spacing: 2px;
+             text-align: center;
+             margin-left: 296px;
+             margin-top: -4px;
+         } 
+         .box10{
+             width: 160px;
+         height: 50px;
+          background: #4088F7;
+         border-radius: 2px;
+         margin-left: 434px;
+         margin-top: 34px;    
+     }
+         .box10>p  {
+             font-family: Heebo;
+         font-weight: 500;
+         line-height: 140%;
+         font-size: 18px;
+         line-height: 140%;
+         text-align: center;
+         padding-top: 12px;
+         color: white;
+         padding-right: 4px;
+         }
+         .six-container > .images4 {
+             float: right;
+             margin-top: -360px;
+          }  
+          img.thirtysix { 
+            width: 236px;
+            height: 188px;  
+            margin-left: 10px;
+            }
+            img.thirtyseven { 
+                width: 292px;
+                height: 180px;
+                margin-left: 42px;
+                margin-top: 28px;  
+            } 
+            
+            img.fourty,img.fourtyone{
+                display: none;
+            }  
+            .box10-contact{
+                display: flex;
+                flex-direction: row;
+                margin-left: 3px;
+                margin-top: 109px;
+        }
+           .box10-contact > div{
+                width: 464px;
+                height: 272px;
+                background: #BEEAFF;
+                border-radius: 8px;
+                margin-left: 32px;        
+            }
+            .box10-cont > div {
+                margin-left: 67px;
+                padding-top: 24px;
+            }    
+            .box10-cont >div>.cu{
+                font-family: Heebo;
+                font-weight: bold;
+                font-size: 24px;
+                line-height: 140%;
+                color: #222222;
+                margin-left: 64px;  
+            }
+            .box10-cont >div>.cu1{
+                font-family: Heebo;
+                font-weight: bold;
+                font-size: 24px;
+                line-height: 140%;
+                color: #222222;
+                margin-left: 92px;  
+            }
+            .box10-cont >div >.or{
+                width: 324px;
+                font-family: Heebo;
+                font-size: 18px;
+                line-height: 140%;
+                color: #555555;
+                text-align: center;  
+                word-spacing: 2px;
+                margin-top: -23px;
+            }
+            .box11{
+                width: 124px;
+            height: 50px;
+             background:#2C3544;
+            border-radius: 2px;
+            margin-left: 98.8px;
+            margin-top: -5px;
+        }
+            .box11>p  {
+                font-family: Heebo;
+            font-weight: 500;
+            line-height: 140%;
+            font-size: 19px;
+            line-height: 140%;
+            text-align: center;
+            padding-top: 9px;
+            color: white;
+            padding-right: 4px;
+            }
+            .last{
+                margin-left: 28px;
+              }
+         .last > div{
+             display: flex;
+             flex-direction: row;
+             margin-top: 43px;
+         } 
+            .last >div >.fourtytwo{
+              width: 51px;
+              height: 48px;
+          }  
+          .last > div >.po{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 24px;
+            line-height: 140%;
+            color: #121212;
+            margin-top: 7px;
+          }
+          .last > div >.nv{
+              width: 294px;
+            font-family: Heebo;
+            font-size: 17px;
+            line-height: 20px;
+            color: #2F2E36;
+            word-spacing: 6px;
+            margin-left: -140px;
+            margin-top: 58px;
+          }
+          
+          .li{
+              margin-left:274px;
+              margin-top: -43px;
+          }
+          .li > ul{
+              margin-top: -208px;
+            margin-left: 28px;
+          }
+          .li > ul > p,.nm2{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 20px;
+            color: #121212;
+          }
+          .li > ul > li{
+              list-style: none;
+            font-family: Heebo;
+            font-size: 17px;
+            line-height: 20px;
+            color: #2F2E36;
+            margin-top: 17.8px;
+          }
+           img.fourtythree{
+              width: 144px;
+              height: 34px;
+              margin-left: -13.5px;
+          }
+          img.fourtyfour{
+            width: 190px;
+            height: 106.5px;
+            margin-top: 14px;
+            margin-left: -17.5px;
+        }    
+    }
+    @media only screen and (max-width:768px){
+        .six-container > .images3 {
+            margin-left: 1px;
+            margin-top: 38px;
+         }  
+        img.thirtyfour { 
+         width: 188px;
+         height: 158px;  
+         }
+         img.thirtyfive { 
+             width: 272px;
+             height: 168px;
+             margin-top: 28px;  
+         } 
+         img.thirtyeight,img.thirtynine{
+            display: none;
+        }
+      .six-container > .rei{
+             margin-top: -304px;
+         }    
+          .six-container > .rei > .reg{
+             font-family: Heebo;
+             font-weight: bold;
+             font-size: 20px;
+             line-height: 140%;
+             text-transform: capitalize;
+             color: #222222; 
+             text-align: center;  
+          } 
+          .six-container > .rei > .jo{
+             font-family: Heebo;
+             font-size: 16px;
+             line-height: 140%;
+             color: #333333;
+             word-spacing: 3px;
+             text-align: center;
+             margin-top: -22px;
+         }    
+         .six-container > .rei > .th{
+             width: 434px;
+             font-family: Heebo;
+              font-size: 16px;
+             line-height: 150%;
+             color: #555555;
+             word-spacing: 2px;
+             text-align: center;
+             margin-left: 168px;
+             margin-top: -4px;
+         } 
+         .box10{
+             width: 140px;
+         height: 50px;
+          background: #4088F7;
+         border-radius: 2px;
+         margin-left: 313px;
+         margin-top: 28px;    
+     }
+         .box10>p  {
+             font-family: Heebo;
+         font-weight: 500;
+         line-height: 140%;
+         font-size: 18px;
+         line-height: 140%;
+         text-align: center;
+         padding-top: 12px;
+         color: white;
+         padding-right: 4px;
+         }
+         .six-container > .images4 {
+             float: right;
+             margin-top: -316px;
+          }  
+          img.thirtysix { 
+            width: 208px;
+            height: 158px;  
+            margin-left: 103px;
+            }
+            img.thirtyseven { 
+                width: 272px;
+                height: 170px;
+                margin-top: 30px;  
+            }
+            
+            img.fourty,img.fourtyone{
+                display: none;
+            }
+            .box10-contact{
+                display: flex;
+                flex-direction: row;
+                margin-left: -9px;
+                margin-top: 109px;
+        }
+           .box10-contact > div{
+                width: 370px;
+                height: 250px;
+                background: #BEEAFF;
+                border-radius: 8px;
+                margin-left: 18px;        
+            }
+            .box10-cont > div {
+                margin-left: 26.6px;
+                padding-top: 24px;
+            }    
+            .box10-cont >div>.cu{
+                font-family: Heebo;
+                font-weight: bold;
+                font-size: 20px;
+                line-height: 140%;
+                color: #222222;
+                margin-left: 78px;  
+            }
+            .box10-cont >div>.cu1{
+                font-family: Heebo;
+                font-weight: bold;
+                font-size: 20px;
+                line-height: 140%;
+                color: #222222;
+                margin-left: 104px;  
+            }
+            .box10-cont >div >.or{
+                width: 324px;
+                font-family: Heebo;
+                font-size: 16.8px;
+                line-height: 140%;
+                color: #555555;
+                text-align: center;  
+                word-spacing: 2px;
+                margin-top: -16px;
+            }
+            .box11{
+                width: 118px;
+            height: 46px;
+             background:#2C3544;
+            border-radius: 2px;
+            margin-left: 98.8px;
+            margin-top: -2px;
+        }
+            .box11>p  {
+                font-family: Heebo;
+            font-weight: 500;
+            line-height: 140%;
+            font-size: 17px;
+            line-height: 140%;
+            text-align: center;
+            padding-top: 9px;
+            color: white;
+            padding-right: 4px;
+            }
+            .last{
+                margin-left: 16px;
+                margin-top: 16.5px;  
+            }
+         .last > div{
+             display: flex;
+             flex-direction: row;
+             margin-top: 43px;
+         } 
+            .last >div >.fourtytwo{
+              width: 46px;
+              height: 42px;
+          }  
+          .last > div >.po{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 21px;
+            line-height: 140%;
+            color: #121212;
+            margin-top: 7.4px;
+          }
+          .last > div >.nv{
+              width: 220px;
+            font-family: Heebo;
+            font-size: 17px;
+            line-height: 20px;
+            color: #2F2E36;
+            word-spacing: 6px;
+            margin-left: -125px;
+            margin-top: 56px;
+          }
+          
+          .li{
+              margin-left:176px;
+              margin-top: -43px;
+          }
+          .li > ul{
+              margin-top: -208px;
+            margin-left: 16px;
+          }
+          .li > ul > p,.nm2{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 20px;
+            color: #121212;
+          }
+          .li > ul > li{
+              list-style: none;
+            font-family: Heebo;
+            font-size: 17px;
+            line-height: 20px;
+            color: #2F2E36;
+            margin-top: 17.8px;
+          }
+           img.fourtythree{
+              width: 144px;
+              height: 34px;
+              margin-left: -14px;
+          }
+          img.fourtyfour{
+            width: 160px;
+            height: 106.5px;
+            margin-top: 14px;
+            margin-left: -18px;
+        }   
+    }
+    @media only screen and (max-width:425px){
+        .six-container > .images3 {
+            margin-left: 1px;
+            margin-top: -10px;
+         }  
+       img.thirtyfour,img.thirtyfive{
+           display: none;
+       }  
+        img.thirtyeight {
+          display: initial;   
+         width: 150px;
+         height: 144px;  
+         }
+         img.thirtynine { 
+             display: initial;
+             width: 190px;
+             height: 128px;
+             margin-top: 202px;  
+         } 
+         .six-container > .rei{
+             margin-top: -366px;
+         }    
+          .six-container > .rei > .reg{
+             font-family: Heebo;
+             font-weight: bold;
+             font-size: 18px;
+             line-height: 140%;
+             text-transform: capitalize;
+             color: #222222; 
+             text-align: center;  
+          } 
+          .six-container > .rei > .jo{
+             font-family: Heebo;
+             font-size: 14px;
+             line-height: 140%;
+             color: #333333;
+             word-spacing: 3px;
+             text-align: center;
+             margin-top: -19px;
+         }    
+         .six-container > .rei > .th{
+             width: 404px;
+             font-family: Heebo;
+              font-size: 16px;
+             line-height: 150%;
+             color: #555555;
+             word-spacing: 2px;
+             text-align: center;
+             margin-left: 18px;
+             margin-top: -4px;
+         } 
+         .box10{
+             width: 130px;
+         height: 50px;
+          background: #4088F7;
+         border-radius: 2px;
+         margin-left: 153px;
+         margin-top: 22px;    
+     }
+         .box10>p  {
+             font-family: Heebo;
+         font-weight: 500;
+         line-height: 140%;
+         font-size: 18px;
+         line-height: 140%;
+         text-align: center;
+         padding-top: 12px;
+         color: white;
+         padding-right: 1px;
+         }
+         .six-container > .images4 {
+             float: right;
+             margin-top: -372px;
+          }
+          img.thirtysix,img.thirtyseven{
+            display: none;
+        }    
+          img.fourty { 
+              display: initial;
+            width: 168px;
+            height: 136px;  
+            margin-left: 120px;
+            }
+            img.fourtyone { 
+                display: initial;
+                width: 206px;
+                height: 138px;
+                margin-left: 80px;
+                margin-top: 202px;  
+            } 
+            .box10-contact{
+                display: flex;
+                flex-direction: column;
+                margin-left: 6px;
+                margin-top: 169px;
+        }
+           .box10-contact > div{
+                width: 386px;
+                height: 248px;
+                background: #BEEAFF;
+                border-radius: 8px;
+                margin-top: 18.8px;
+                        
+            }
+            .box10-cont > div {
+                margin-left: 29px;
+                padding-top: 24px;
+            }    
+            .box10-cont >div>.cu{
+                font-family: Heebo;
+                font-weight: bold;
+                font-size: 20px;
+                line-height: 140%;
+                color: #222222;
+                margin-left: 79px;  
+            }
+            .box10-cont >div>.cu1{
+                font-family: Heebo;
+                font-weight: bold;
+                font-size: 20px;
+                line-height: 140%;
+                color: #222222;
+                margin-left: 99px;  
+            }
+            .box10-cont >div >.or{
+                width: 324px;
+                font-family: Heebo;
+                font-size: 16.8px;
+                line-height: 140%;
+                color: #555555;
+                text-align: center;  
+                word-spacing: 2px;
+                margin-top: -15.8px;
+            }
+            .box11{
+                width: 118px;
+            height: 46px;
+             background:#2C3544;
+            border-radius: 2px;
+            margin-left: 102px;
+            margin-top: -1px;
+        }
+            .box11>p  {
+                font-family: Heebo;
+            font-weight: 500;
+            line-height: 140%;
+            font-size: 17px;
+            line-height: 140%;
+            text-align: center;
+            padding-top: 9px;
+            color: white;
+            padding-right: 4px;
+            }  
+    }
+    @media only screen and (max-width:375px){
+        .six-container > .images3 {
+            margin-left: 13px;
+            margin-top: -8px;
+         }  
+       img.thirtyfour,img.thirtyfive{
+           display: none;
+       }  
+        img.thirtyeight {
+          display: initial;   
+         width: 140px;
+         height: 134px;  
+         }
+         img.thirtynine { 
+             display: initial;
+             width: 180px;
+             height: 118px;
+             margin-top: 232px;  
+         } 
+         .six-container > .rei{
+             margin-top: -376px;
+         }    
+          .six-container > .rei > .reg{
+             font-family: Heebo;
+             font-weight: bold;
+             font-size: 18px;
+             line-height: 140%;
+             text-transform: capitalize;
+             color: #222222; 
+             text-align: center;  
+          } 
+          .six-container > .rei > .jo{
+             font-family: Heebo;
+             font-size: 14px;
+             line-height: 140%;
+             color: #333333;
+             word-spacing: 3px;
+             text-align: center;
+             margin-top: -19px;
+         }    
+         .six-container > .rei > .th{
+             width: 384px;
+             font-family: Heebo;
+              font-size: 16px;
+             line-height: 150%;
+             color: #555555;
+             word-spacing: 2px;
+             text-align: center;
+             margin-left: 12px;
+             margin-top: -4px;
+         } 
+         .box10{
+             width: 130px;
+         height: 50px;
+          background: #4088F7;
+         border-radius: 2px;
+         margin-left: 153px;
+         margin-top: 10px;    
+     }
+         .box10>p  {
+             font-family: Heebo;
+         font-weight: 500;
+         line-height: 140%;
+         font-size: 18px;
+         line-height: 140%;
+         text-align: center;
+         padding-top: 12px;
+         color: white;
+         padding-right: 1px;
+         }
+         .six-container > .images4 {
+             float: right;
+            margin-top: -398px;
+          }
+          img.thirtysix,img.thirtyseven{
+            display: none;
+        }    
+        img.fourty { 
+            display: initial;
+          width: 168px;
+          height: 136px;  
+          margin-left: 260px;
+          }
+          img.fourtyone { 
+              display: initial;
+              width: 186px;
+              height: 138px;
+              margin-left: 250px;
+              margin-top: 228px;  
+          }
+          img.fourty { 
+            display: initial;
+          width: 168px;
+          height: 136px;  
+          margin-left: 120px;
+          }
+          img.fourtyone { 
+              display: initial;
+              width: 206px;
+              height: 138px;
+              margin-left: 80px;
+              margin-top: 202px;  
+          } 
+          .box10-contact{
+              display: flex;
+              flex-direction: column;
+              margin-left: 12px;
+              margin-top: 148px;
+      }
+         .box10-contact > div{
+              width: 356.8px;
+              height: 246px;
+              background: #BEEAFF;
+              border-radius: 8px;
+              margin-top: 18.8px;
+                      
+          }
+          .box10-cont > div {
+              margin-left: 15.3px;
+              padding-top: 20px;
+          }    
+          .box10-cont >div>.cu{
+              font-family: Heebo;
+              font-weight: bold;
+              font-size: 20px;
+              line-height: 140%;
+              color: #222222;
+              margin-left: 79.5px;  
+          }
+          .box10-cont >div>.cu1{
+              font-family: Heebo;
+              font-weight: bold;
+              font-size: 20px;
+              line-height: 140%;
+              color: #222222;
+              margin-left: 104.8px;  
+          }
+          .box10-cont >div >.or{
+              width: 324px;
+              font-family: Heebo;
+              font-size: 16.8px;
+              line-height: 140%;
+              color: #555555;
+              text-align: center;  
+              word-spacing: 2px;
+              margin-top: -15.8px;
+          }
+          .box11{
+              width: 118px;
+          height: 46px;
+           background:#2C3544;
+          border-radius: 2px;
+          margin-left: 106px;
+          margin-top: -1px;
+      }
+          .box11>p  {
+              font-family: Heebo;
+          font-weight: 500;
+          line-height: 140%;
+          font-size: 17px;
+          line-height: 140%;
+          text-align: center;
+          padding-top: 9px;
+          color: white;
+          padding-right: 4px;
+          }     
+    }
