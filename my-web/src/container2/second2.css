@@ -75,6 +75,7 @@
         margin-top: -395px;
     }
      .box5-contact{
+        position: absolute;
          display: flex;
          flex-direction: row;
          margin-top: 32px;
@@ -164,7 +165,7 @@
         height: 434px; 
         background: #444F91;
         border-radius: 8px;
-        margin-top: 30px;
+        margin-top: 403px;
         }
     .box6-contact > div{
         margin-left: 766px;
@@ -227,13 +228,13 @@
         margin-top: -438px;
     }
     img.eleven{
-        width: 80px;
+        width: 70px;
         margin-left: 1140px;
         margin-top: -223px;
     }
     img.tweleve{
         width: 213px;
-        height: 134px;
+        height: 136px;
         margin-left: 1058px;
         margin-top: 63px;
     }   
@@ -241,9 +242,10 @@
     margin-top: 52px;
 }    
 .images{
+    position: absolute;
     display: flex;
     flex-direction: row;
-    margin-left: -68px;
+    margin-left: -69.8px;
     margin-top: 16px;
 }
 .images > img{
@@ -256,7 +258,7 @@
     height: 648px; 
     background: #E1F0FF;
     border-radius: 8px;
-    margin-top: 30px;
+    margin-top: 324px;
 }
 .box7-cont > div{
     margin-left: 104px;
@@ -273,7 +275,7 @@ word-spacing: 1px;
 .box7-cont > div> .our{
     width: 923px;
     font-family: Heebo;
-font-size: 38px;
+font-size: 37px;
 line-height: 150%;
 text-transform: capitalize;
 word-spacing: 1.8px;
@@ -347,6 +349,7 @@ margin-top: -38px;
     margin-top: 52px;
 }   
   .images2{
+      position: absolute;
     display: flex;
     flex-direction: row;
     margin-left: -103px;
@@ -361,7 +364,7 @@ margin-top: -38px;
     height: 392px; 
     background: #eef2f6;
     border-radius: 8px;
-    margin-top: 34px;
+    margin-top: 488px;
 }
 .box8-cont > div{
    margin-left: 86px;
@@ -504,6 +507,7 @@ img.seven{
     margin-top: -285px;
 }
  .box5-contact{
+     position: absolute;
      display: flex;
      flex-direction: row;
      margin-top: 26px;
@@ -593,7 +597,7 @@ img.eight2{
     height: 340px; 
     background: #444F91;
     border-radius: 8px;
-    margin-top: 26px;
+    margin-top: 306px;
     }
 .box6-contact > div{
     margin-left: 422px;
@@ -663,17 +667,18 @@ img.eleven{
 }
 img.tweleve{
     width: 123px;
-    height: 114px;
+    height: 94px;
     margin-left: 656px;
-    margin-top: 68px;
+    margin-top: 88px;
 }
 .box7-contact{
     margin-top: 38px;
 }
 .images{
+    position: absolute;
     display: flex;
     flex-direction: row;
-    margin-left: -31px;
+    margin-left: -35px;
     margin-top: 18px;
 }
 .images > img{
@@ -686,7 +691,7 @@ img.tweleve{
     height: 340px; 
     background: #E1F0FF;
     border-radius: 8px;
-    margin-top: 24px;
+    margin-top: 202px;
 }
 .box7-cont > div{
     margin-left: 68px;
@@ -778,21 +783,22 @@ margin-top: -20px;
       margin-top: 32px;
   }
   .images2{
+      position: absolute;
       display: flex;
       flex-direction: row;
       margin-left: -36px;
   }
   .images2 > img{
-      width: 280px;
+      width: 290px;
       height: 217px;
-      margin-left: 24px;
+      margin-left: 23.5px;
   }
   .box8-cont{
     width: 1200px;
     height: 238px; 
     background: #eef2f6;
     border-radius: 8px;
-    margin-top: 28px;
+    margin-top: 282px;
   }
  .box8-cont > div{
      margin-left: 76px;
@@ -934,6 +940,7 @@ margin-top: -20px;
         margin-top: -278px;
     }
      .box5-contact{
+        position: absolute;
          display: flex;
          flex-direction: row;
          margin-top: 26px;
@@ -1023,7 +1030,7 @@ margin-top: -20px;
         height: 300px; 
         background: #444F91;
         border-radius: 8px;
-        margin-top: 26px;
+        margin-top: 299px;
         }
     .box6-contact > div{
         margin-left: 284px;
@@ -1086,20 +1093,21 @@ margin-top: -20px;
         margin-top: -303px;
     }
     img.eleven{
-        width: 40px;
+        width: 36px;
         margin-left: 538px;
         margin-top: -123px;
     }
     img.tweleve{
         width: 123px;
-        height: 90px;
+        height: 88px;
         margin-left: 480px;
-        margin-top: 70px;
+        margin-top: 72px;
     }     
     .images{
+        position: absolute;
         display: flex;
         flex-direction: row;
-        margin-left: -31px;
+        margin-left: -28.8px;
         margin-top: 18px;
     }
     .images > img{
@@ -1111,7 +1119,7 @@ margin-top: -20px;
         width: 886px;
         height: 318px; 
         border-radius: 8px;
-        margin-top: 26px;
+        margin-top: 166px;
         background: #E1F0FF;
     }
     .box7-cont > div{
@@ -1204,9 +1212,10 @@ margin-top: -20px;
         margin-top: 32px;
     }
     .images2{
+        position: absolute;
         display: flex;
         flex-direction: row;
-        margin-left: -49px;
+        margin-left: -50px;
     }
     .images2 > img{
         width: 216px;
@@ -1218,7 +1227,7 @@ margin-top: -20px;
         height: 220.8px; 
         background: #eef2f6;
       border-radius: 8px;
-      margin-top: 28px;
+      margin-top: 252px;
      }
    .box8-cont > div{
        margin-left: 34px;
@@ -1360,6 +1369,7 @@ margin-top: -20px;
         margin-top: -270px;
     }
      .box5-contact{
+         position: absolute;
          display: flex;
          flex-direction: row;
          margin-top: 26px;
@@ -1449,7 +1459,7 @@ margin-top: -20px;
         height: 392px; 
         background: #444F91;
         border-radius: 8px;
-        margin-top: 26px;
+        margin-top: 296px;
         }
     .box6-contact > div{
         margin-left: 44px;
@@ -1514,14 +1524,16 @@ margin-top: -20px;
     }
     img.tweleve{
         width: 112px;
-        margin-top: -32px;
+        margin-top: -31px;
+        margin-right: -1px;
         float: right;
     }
     .images{
+        position: absolute;
         display: flex;
         flex-direction: row;
         margin-left: -31px;
-        margin-top: 18px;
+        margin-top: 12px;
     }
     .images > img{
         width: 112px;
@@ -1534,7 +1546,7 @@ margin-top: -20px;
         border-radius: 8px;
         margin-top: 26px;
         background: #E1F0FF;
-        margin-top: 26px;
+        margin-top: 156px;
     }
     .box7-cont > div{
         margin-left: 18px;
@@ -1623,7 +1635,7 @@ margin-top: -20px;
     .images2{
         display: flex;
         flex-direction: row;
-        margin-left: -43px;
+        margin-left: -42px;
     }
     .images2 > img{
         width: 176px;
@@ -1634,9 +1646,8 @@ margin-top: -20px;
       width: 714px;
       height: 212px; 
       border-radius: 8px;
-      margin-top: 26px;
       background: #eef2f6;
-      margin-top: 26px;
+      margin-top: 256px;
      }
    .box8-cont > div{
        margin-left: 108px;
@@ -1701,7 +1712,7 @@ margin-top: -20px;
  }
 @media only screen and (max-width:425px){
     .second-container{
-        padding-left: 23px;
+        padding-left: 24px;
         padding-top: 10.8px;
         padding-right: 0px;
         padding-bottom: 0px;
@@ -1777,6 +1788,7 @@ margin-top: -20px;
         margin-top: -288px;
     }
      .box5-contact{
+         position: absolute;
          display: flex;
          flex-direction: row;
          margin-top: 20px;
@@ -1867,7 +1879,7 @@ margin-top: -20px;
         height: 378px; 
         background: #444F91;
         border-radius: 8px;
-        margin-top: 26px;
+        margin-top: 276px;
         }
     .box6-contact > div{
         margin-left: 14px;
@@ -1925,8 +1937,8 @@ margin-top: -20px;
     }
     
     img.eleven{
-     width: 28px;
-      margin-left: 126px;
+     width: 28.8px;
+      margin-left: 128px;
       margin-top: -132px;
     }
     
@@ -1937,13 +1949,14 @@ margin-top: -20px;
        margin-top: -34px;
     }
     .images{
+        position: absolute;
         display: flex;
         flex-direction: row;
-        margin-left: -28px;
-        margin-top: 18px;
+        margin-left: -14px;
+        margin-top: 12px;
     }
     .images > img{
-        width: 128px;
+        width: 118px;
         height: 58.8px;
         margin-left: 15px;
     }
@@ -1954,7 +1967,7 @@ margin-top: -20px;
         width: 388px;
         height: 608px; 
         border-radius: 8px;
-        margin-top: 26px;
+        margin-top: 124px;
         background: #E1F0FF;
      }
     .box7-cont > div{
@@ -2003,18 +2016,18 @@ margin-top: -20px;
         font-size: 14px;
         line-height: 140%;
         color: #222222;
-        margin-left: 60px;
+        margin-left: 12px;
         margin-top: -59px;
-        width: 150px;
+        width: 350px;
         }
         .boxes2 span >.ou{
-            width: 160px;
+            width: 140px;
             font-family: Heebo;
         font-size: 14px;
         line-height: 130%;
         color: #333333;
-        margin-left: 54px;
-        margin-top: -40px;
+        margin-left: 50px;
+        margin-top: -17px;
         }
         .boxes2 >.box2{
             background-color: #FFD99F;
@@ -2044,12 +2057,12 @@ margin-top: -20px;
     .images2{
         display: flex;
         flex-direction: row;
-        margin-left: -43px;
+        margin-left: -34px;
     }
     .images2 > img{
-        width: 200px;
+        width: 188px;
         height: 196px;
-        margin-left: 18.8px;
+        margin-left: 20px;
     }
     img.fiveteen{
         display: none;
@@ -2060,7 +2073,7 @@ margin-top: -20px;
       border-radius: 8px;
       margin-top: 26px;
       background: #eef2f6;
-      margin-top: 26px;
+      margin-top: 252px;
      }
    .box8-cont > div{
        margin-left: 48px;
@@ -2205,13 +2218,14 @@ margin-top: -20px;
         margin-top: -276px;
     }
      .box5-contact{
+         position: absolute;
          display: flex;
          flex-direction: row;
          margin-top: 20px;
         margin-left: -18px;
         } 
     .box5-contact > .er{
-        width: 193px;
+        width: 181px;
     height: 238px;
     background: #12B3FF;
     border-radius: 8px;
@@ -2295,7 +2309,7 @@ margin-top: -20px;
         height: 378px; 
         background: #444F91;
         border-radius: 8px;
-        margin-top: 26px;
+        margin-top: 276px;
         }
     .box6-contact > div{
         margin-left: 14px;
@@ -2365,13 +2379,14 @@ margin-top: -20px;
        margin-top: -34.6px;
     }
     .images{
+        position: absolute;
         display: flex;
         flex-direction: row;
-        margin-left: -20px;
-        margin-top: 18px;
+        margin-left: -16px;
+        margin-top: 10px;
     }
     .images > img{
-        width: 128px;
+        width: 116px;
         height: 58.8px;
         margin-left: 15px;
     }
@@ -2382,7 +2397,7 @@ margin-top: -20px;
         width: 380px;
         height: 608px; 
         border-radius: 8px;
-        margin-top: 26px;
+        margin-top: 120px;
         background: #E1F0FF;
      }
     .box7-cont > div{
@@ -2410,7 +2425,7 @@ margin-top: -20px;
         display: flex;
         flex-direction: row;
         margin-top: 30px;
-        margin-left: -11px;
+        margin-left: -16px;
         }
         .boxes2 > div {
             width: 190px;
@@ -2431,18 +2446,18 @@ margin-top: -20px;
         font-size: 14px;
         line-height: 140%;
         color: #222222;
-        margin-left: 60px;
+        margin-left: 1s0px;
         margin-top: -59px;
-        width: 150px;
+        width: 180px;
         }
         .boxes2 span >.ou{
-            width: 160px;
+            width: 140px;
             font-family: Heebo;
         font-size: 14px;
         line-height: 130%;
         color: #333333;
-        margin-left: 54px;
-        margin-top: -40px;
+        margin-left: 44px;
+        margin-top: -18px;
         }
         .boxes2 >.box2{
             background-color: #FFD99F;
@@ -2472,10 +2487,10 @@ margin-top: -20px;
     .images2{
         display: flex;
         flex-direction: row;
-        margin-left: -32px;
+        margin-left: -31px;
     }
     .images2 > img{
-        width: 194px;
+        width: 184px;
         height: 196px;
         margin-left: 18.8px;
     }
@@ -2488,7 +2503,7 @@ margin-top: -20px;
       border-radius: 8px;
       margin-top: 26px;
       background: #eef2f6;
-      margin-top: 26px;
+      margin-top: 240px;
      }
    .box8-cont > div{
        margin-left: 56px;

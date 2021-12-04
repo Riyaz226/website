@@ -59,7 +59,7 @@ render() {
       </div>   
       </section>    
 
-           <section className="box6-contact"> 
+       <section className="box6-contact"> 
            <div>
            <p className="ge">Get a Free Course <br/><span>Guideline consultation</span></p>
            <p className="ge2">Get a free course guildeline from our experts to know about the courses and its standards</p>
@@ -71,7 +71,7 @@ render() {
           </div>   
       </section>   
          
-      <section className="box7-contact"> 
+    <section className="box7-contact"> 
        <p className="on">Categories</p>
        <p className="we">Select Courses From the list of categories</p> 
           <div className="images">
@@ -83,7 +83,7 @@ render() {
           <img className="fourteen" src={img18} alt="traning6"/> 
         </div>  
         
-         <div className="box7-cont">
+           <div className="box7-cont">
            <div>
            <p className="itc">IT Courses</p>
            <p className="our">Our IT Courses are 1 to 1 courses connected directley to the tutor for better understability and beautiful learning experience.Our IT Courses are 1 to 1 courses connected directley to the tutor for better understability and beautiful learning experience.</p>
@@ -102,14 +102,14 @@ render() {
             <p class="ou">Our Tutors are verified and qualified </p>
         </span> 
       </div>
-     </div>
-     </div>   
+    </div>
+    </div>   
          <img className="thirteen" src={img19} alt="all web"/>
          <p className="ex">Explore Course&#8594;</p> 
-       </div>    
+       </div>      
     </section> 
          
-      <section className="box8-contact">
+       <section className="box8-contact">
        <p className="on">Popular courses</p>
        <p className="we">Courses that are popular among the learners</p> 
           <div className="images2">
@@ -119,7 +119,7 @@ render() {
           <img className="fiveteen" src={img23} alt="post3"/> 
         </div>    
 
-         <div className="box8-cont"> 
+          <div className="box8-cont"> 
           <div>
          <p className="do">Don’t have an idea regarding which course to pick?</p>
          <p className="ma">Match your goals to our programes, explore options and map out the path to success</p>
@@ -129,8 +129,8 @@ render() {
          <p className="box9"><p>Get Started&#8594;</p></p> 
          <img className="eighteen" src={img26} alt="kodu2"/>
          <img className="nineteen" src={img27} alt="round3"/>    
-         </div>      
-    </section>    
+        </div>      
+    </section>     
  </div>
 
       )

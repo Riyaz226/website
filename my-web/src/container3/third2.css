@@ -76,14 +76,14 @@
        .box9-contact{
            display: flex;
            flex-direction: row;
-           margin-left: -58px;
+           margin-left: -59px;
        }
        .box9-contact > div{
         width: 676px;
         height: 602px;
         background: #FFFFFF;
         border-radius: 8px;
-        margin-left: 62px;
+        margin-left: 70px;
        }
        img.twentyone{
            width: 134px;
@@ -126,13 +126,13 @@
             width: 120px;
             float: left;
             margin-top: -368px;
-            margin-left: 90px;
+            margin-left: 91.5px;
         }
         img.twentyfour{
             width: 118px;
             float: right;
             margin-top: -374px;
-            margin-right: 188px;
+            margin-right: 162px;
         }  
         }
     @media only screen and  (max-width:1440px){

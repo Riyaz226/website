@@ -1,5 +1,6 @@
 @media only screen and (max-width:2670px){
      .six-container > .images3 {
+         position: absolute;
         margin-left: 1px;
         margin-top: 78px;
      }   
@@ -16,7 +17,8 @@
          display: none;
      }
       .six-container > .rei{
-         margin-top: -706px;
+          position: absolute;
+         margin-top: 258px;
      }     
       .six-container > .rei > .reg{
          font-family: Heebo;
@@ -27,6 +29,7 @@
          color: #222222; 
          text-align: center;
          word-spacing: 2px;  
+         margin-left: 928px;
       } 
       .six-container > .rei > .jo{
          font-family: Heebo;
@@ -36,6 +39,7 @@
          word-spacing: 3px;
          text-align: center;
          margin-top: -43px;
+         margin-left: 913px;
      }    
      .six-container > .rei > .th{
          width: 724px;
@@ -46,7 +50,7 @@
          word-spacing: 3px;
          text-align: center;
          margin-left: 914px;
-         margin-top: -4px;
+         margin-top: -6px;
      } 
      .box10{
         width: 214px;
@@ -66,8 +70,9 @@
     color: white;
     }
      .six-container > .images4 {
-         float: right;
-         margin-top: -720px;
+         position: absolute;
+        margin-left: 1897px;
+         margin-top: 58px;
       }  
       img.thirtysix { 
         width: 570px;
@@ -84,10 +89,11 @@
             display: none;
         } 
         .box10-contact{
+            position: absolute;
             display: flex;
             flex-direction: row;
             margin-left: 102px;
-            margin-top: 296px;
+            margin-top: 1030px;
     }
        .box10-contact > div{
             width: 1094px;
@@ -151,9 +157,10 @@
             margin-top: 65px;
           }
      .last > div{
+         position: absolute;
          display: flex;
          flex-direction: row;
-         margin-top: 43px;
+         margin-top: 1566px;
      } 
         .last >div >.fourtytwo{
           width: 104px;
@@ -180,11 +187,12 @@
       }
       
       .li{
+          position: absolute;
           margin-left:518px;
-          margin-top: -43px;
+          
       }
       .li > ul{
-          margin-top: -282px;
+          margin-top: 1px;
         margin-left: 164px;
       }
       .li > ul > p,.nm2{
@@ -202,38 +210,74 @@
         color: #2F2E36;
         margin-top: 42px;
       }
-       img.fourtythree{
-          width: 278px;
-          height: 56px;
-          margin-left: -27.5px;
-      }
-      img.fourtyfour{
-        width: 296px;
-        height: 184px;
-        margin-top: 23px;
-        margin-left: -17.5px;
-    } 
+     .li2{
+        position: absolute;
+        margin-left:1320px;
+    }
+    .li2 > ul{
+        margin-top: 1px;
+      margin-left: 164px;
+    }
+    .li2 > ul > p,.nm2{
+      font-family: Heebo;
+      font-weight: bold;
+      font-size: 38.6px;
+      line-height: 20px;
+      color: #121212;
+    }
+    .li2 > ul > li{
+        list-style: none;
+      font-family: Heebo;
+      font-size: 31px;
+      line-height: 20px;
+      color: #2F2E36;
+      margin-top: 42px;
+    }
+     img.fourtythree{
+        width: 278px;
+        height: 56px;
+        margin-left: -27.5px;
+    }
+    img.fourtyfour{
+      width: 296px;
+      height: 184px;
+      margin-top: 23px;
+      margin-left: -17.5px;
+  } 
+  img.fourtyfive{
+    position: absolute;
+    width: 1829px;
+    margin-top: 2058px;
+    margin-left: 168px;
+}
+img.fourtysix{
+    display: none;
+}
     }
     @media only screen and  (max-width:1440px){
+  
     .six-container > .images3 {
-       margin-left: 1px;
+       margin-left: 6px;
        margin-top: 38px;
     }  
    img.thirtyfour { 
+       position: absolute;
     width: 280px;
     height: 214px;  
     }
     img.thirtyfive { 
+        position: absolute;
         width: 350px;
         height: 214px;
-        margin-top: 25px;  
+        margin-top: 223px;  
     } 
     img.thirtyeight,img.thirtynine{
         display: none;
     }
     
     .six-container > .rei{
-        margin-top: -372px;
+        position: absolute;
+        margin-top: 126px;
     }    
      .six-container > .rei > .reg{
         font-family: Heebo;
@@ -242,7 +286,8 @@
         line-height: 140%;
         text-transform: capitalize;
         color: #222222; 
-        text-align: center;  
+        text-align: center;
+        margin-left: 456.5px;  
      } 
      .six-container > .rei > .jo{
         font-family: Heebo;
@@ -252,6 +297,7 @@
         word-spacing: 3px;
         text-align: center;
         margin-top: -24px;
+        margin-left: 455px;
     }    
     .six-container > .rei > .th{
         width: 434px;
@@ -261,7 +307,7 @@
         color: #555555;
         word-spacing: 2px;
         text-align: center;
-        margin-left: 459px;
+        margin-left: 458px;
         margin-top: -4px;
     } 
     .box10{
@@ -284,8 +330,9 @@
     padding-right: 4px;
     }
     .six-container > .images4 {
-        float: right;
-        margin-top: -385px;
+        position: absolute;
+        margin-left: 970px;
+        margin-top: 28px;
      }  
     img.thirtysix { 
      width: 280px;
@@ -294,16 +341,18 @@
      img.thirtyseven { 
          width: 350px;
          height: 218px;
-         margin-top: 28px;  
+         margin-left:20px;
+         margin-top: 36px;  
      }
      img.fourty,img.fourtyone{
         display: none;
     }  
     .box10-contact{
+        position: absolute;
         display: flex;
         flex-direction: row;
         margin-left: 50px;
-        margin-top: 172px;
+        margin-top: 540px;
 }
    .box10-contact > div{
         width: 544px;
@@ -366,9 +415,10 @@
         margin-top: 6.8px;  
     }
  .last > div{
+     position: absolute;
      display: flex;
      flex-direction: row;
-     margin-top: 43px;
+     margin-top: 848px;
  } 
     .last >div >.fourtytwo{
       width: 54px;
@@ -394,11 +444,12 @@
   }
   
   .li{
+      position: absolute;
       margin-left:263px;
       margin-top: -43px;
   }
   .li > ul{
-      margin-top: -212px;
+      margin-top: -0px;
     margin-left: 64px;
   }
   .li > ul > p,.nm2{
@@ -416,6 +467,30 @@
     color: #2F2E36;
     margin-top: 17.8px;
   }
+  .li2{
+    position: absolute;
+    margin-left:703px;
+    margin-top: -43px;
+}
+.li2 > ul{
+    margin-top: -0px;
+  margin-left: 64px;
+}
+.li2 > ul > p,.nm2{
+  font-family: Heebo;
+  font-weight: bold;
+  font-size: 18.6px;
+  line-height: 20px;
+  color: #121212;
+}
+.li2 > ul > li{
+    list-style: none;
+  font-family: Heebo;
+  font-size: 18.5px;
+  line-height: 20px;
+  color: #2F2E36;
+  margin-top: 17.8px;
+}
    img.fourtythree{
       width: 164px;
       height: 34px;
@@ -427,10 +502,20 @@
     margin-top: 14px;
     margin-left: -17.5px;
 }
+img.fourtyfive{
+    position: absolute;
+    width: 1106px;
+    margin-top: 1155px;
+    margin-left: 43px;
+}
+img.fourtysix{
+    display: none;
+}
 }
     
     @media only screen and (max-width:1024px){
         .six-container > .images3 {
+            position: absolute;
             margin-left: 1px;
             margin-top: 38px;
          }  
@@ -441,14 +526,16 @@
          img.thirtyfive { 
              width: 292px;
              height: 178px;
-             margin-top: 25px;  
+             margin-top: 198px;  
          } 
          img.thirtyeight,img.thirtynine{
             display: none;
         }
        
          .six-container > .rei{
-             margin-top: -322px;
+             position: absolute;
+             margin-left: -1px;
+             margin-top: 122px;
          }    
           .six-container > .rei > .reg{
              font-family: Heebo;
@@ -457,7 +544,8 @@
              line-height: 140%;
              text-transform: capitalize;
              color: #222222; 
-             text-align: center;  
+             text-align: center;
+             margin-left: 290px;  
           } 
           .six-container > .rei > .jo{
              font-family: Heebo;
@@ -467,6 +555,7 @@
              word-spacing: 3px;
              text-align: center;
              margin-top: -24px;
+             margin-left: 288px;
          }    
          .six-container > .rei > .th{
              width: 434px;
@@ -499,14 +588,14 @@
          padding-right: 4px;
          }
          .six-container > .images4 {
-             float: right;
-             margin-top: -360px;
+             position: absolute;
+             margin-left: 696px;
+              margin-top: 30px;
           }  
           img.thirtysix { 
             width: 236px;
             height: 188px;  
-            margin-left: 10px;
-            }
+           }
             img.thirtyseven { 
                 width: 292px;
                 height: 180px;
@@ -518,10 +607,11 @@
                 display: none;
             }  
             .box10-contact{
+                position: absolute;
                 display: flex;
                 flex-direction: row;
                 margin-left: 3px;
-                margin-top: 109px;
+                margin-top: 466px;
         }
            .box10-contact > div{
                 width: 464px;
@@ -583,9 +673,10 @@
                 margin-left: 28px;
               }
          .last > div{
+             position: absolute;
              display: flex;
              flex-direction: row;
-             margin-top: 43px;
+             margin-top: 766px;
          } 
             .last >div >.fourtytwo{
               width: 51px;
@@ -611,11 +702,11 @@
           }
           
           .li{
-              margin-left:274px;
-              margin-top: -43px;
-          }
+              position: absolute;
+              margin-left:265px;
+            }
           .li > ul{
-              margin-top: -208px;
+              margin-top:-1px;
             margin-left: 28px;
           }
           .li > ul > p,.nm2{
@@ -633,6 +724,29 @@
             color: #2F2E36;
             margin-top: 17.8px;
           }
+          .li2{
+            position: absolute;
+            margin-left:604px;
+          }
+        .li2 > ul{
+            margin-top:-1px;
+          margin-left: 28px;
+        }
+        .li2 > ul > p,.nm2{
+          font-family: Heebo;
+          font-weight: bold;
+          font-size: 18px;
+          line-height: 20px;
+          color: #121212;
+        }
+        .li2 > ul > li{
+            list-style: none;
+          font-family: Heebo;
+          font-size: 17px;
+          line-height: 20px;
+          color: #2F2E36;
+          margin-top: 17.8px;
+        }
            img.fourtythree{
               width: 144px;
               height: 34px;
@@ -643,10 +757,20 @@
             height: 106.5px;
             margin-top: 14px;
             margin-left: -17.5px;
-        }    
+        }   
+        img.fourtyfive{
+            position: absolute;
+            width: 786px;
+            margin-top: 1056px;
+            margin-left: 86px;
+        } 
+        img.fourtysix{
+            display: none;
+        }
     }
     @media only screen and (max-width:768px){
         .six-container > .images3 {
+            position: absolute;
             margin-left: 1px;
             margin-top: 38px;
          }  
@@ -657,13 +781,15 @@
          img.thirtyfive { 
              width: 272px;
              height: 168px;
-             margin-top: 28px;  
+             margin-top: 186px;  
          } 
          img.thirtyeight,img.thirtynine{
             display: none;
         }
       .six-container > .rei{
-             margin-top: -304px;
+          position: absolute;
+          margin-left: 1px;
+             margin-top: 102px;
          }    
           .six-container > .rei > .reg{
              font-family: Heebo;
@@ -672,7 +798,8 @@
              line-height: 140%;
              text-transform: capitalize;
              color: #222222; 
-             text-align: center;  
+             text-align: center;
+             margin-left: 145.5px;  
           } 
           .six-container > .rei > .jo{
              font-family: Heebo;
@@ -682,6 +809,7 @@
              word-spacing: 3px;
              text-align: center;
              margin-top: -22px;
+             margin-left: 157px;
          }    
          .six-container > .rei > .th{
              width: 434px;
@@ -714,28 +842,29 @@
          padding-right: 4px;
          }
          .six-container > .images4 {
-             float: right;
-             margin-top: -316px;
+             position: absolute;
+             margin-left: 465px;
+             margin-top: 30px;
           }  
           img.thirtysix { 
             width: 208px;
             height: 158px;  
-            margin-left: 103px;
             }
             img.thirtyseven { 
                 width: 272px;
                 height: 170px;
-                margin-top: 30px;  
+                margin-top: 54px;  
             }
             
             img.fourty,img.fourtyone{
                 display: none;
             }
             .box10-contact{
+                position: absolute;
                 display: flex;
                 flex-direction: row;
                 margin-left: -9px;
-                margin-top: 109px;
+                margin-top: 442px;
         }
            .box10-contact > div{
                 width: 370px;
@@ -795,12 +924,13 @@
             }
             .last{
                 margin-left: 16px;
-                margin-top: 16.5px;  
+                margin-top: 17px;  
             }
          .last > div{
+             position: absolute;
              display: flex;
              flex-direction: row;
-             margin-top: 43px;
+             margin-top: 718px;
          } 
             .last >div >.fourtytwo{
               width: 46px;
@@ -824,30 +954,52 @@
             margin-left: -125px;
             margin-top: 56px;
           }
-          
           .li{
-              margin-left:176px;
-              margin-top: -43px;
-          }
-          .li > ul{
-              margin-top: -208px;
-            margin-left: 16px;
-          }
-          .li > ul > p,.nm2{
-            font-family: Heebo;
-            font-weight: bold;
-            font-size: 18px;
-            line-height: 20px;
-            color: #121212;
-          }
-          .li > ul > li{
-              list-style: none;
-            font-family: Heebo;
-            font-size: 17px;
-            line-height: 20px;
-            color: #2F2E36;
-            margin-top: 17.8px;
-          }
+              position: absolute;
+            margin-left:176px;
+        }
+        .li > ul{
+            margin-top: -4px;
+          margin-left: 6px;
+        }
+        .li > ul > p,.nm2{
+          font-family: Heebo;
+          font-weight: bold;
+          font-size: 18px;
+          line-height: 20px;
+          color: #121212;
+        }
+        .li > ul > li{
+            list-style: none;
+          font-family: Heebo;
+          font-size: 17px;
+          line-height: 20px;
+          color: #2F2E36;
+          margin-top: 17.8px;
+        }
+        .li2{
+            position: absolute;
+          margin-left:466px;
+      }
+      .li2 > ul{
+          margin-top: -4px;
+        margin-left: 12px;
+      }
+      .li2 > ul > p,.nm2{
+        font-family: Heebo;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 20px;
+        color: #121212;
+      }
+      .li2 > ul > li{
+          list-style: none;
+        font-family: Heebo;
+        font-size: 17px;
+        line-height: 20px;
+        color: #2F2E36;
+        margin-top: 17.8px;
+      }
            img.fourtythree{
               width: 144px;
               height: 34px;
@@ -858,10 +1010,21 @@
             height: 106.5px;
             margin-top: 14px;
             margin-left: -18px;
-        }   
+        } 
+        img.fourtyfive{
+            display: initial;
+            position: absolute;
+            width: 586px;
+            margin-top: 1026px;
+            margin-left: 82px;
+        } 
+        img.fourtysix{
+            display: none;
+        }
     }
     @media only screen and (max-width:425px){
         .six-container > .images3 {
+            position: absolute;
             margin-left: 1px;
             margin-top: -10px;
          }  
@@ -877,10 +1040,11 @@
              display: initial;
              width: 190px;
              height: 128px;
-             margin-top: 202px;  
+             margin-top: 212px;  
          } 
          .six-container > .rei{
-             margin-top: -366px;
+             position: absolute;
+             margin-top: 136px;
          }    
           .six-container > .rei > .reg{
              font-family: Heebo;
@@ -889,7 +1053,8 @@
              line-height: 140%;
              text-transform: capitalize;
              color: #222222; 
-             text-align: center;  
+             text-align: center;
+             margin-left: 8px;  
           } 
           .six-container > .rei > .jo{
              font-family: Heebo;
@@ -898,6 +1063,7 @@
              color: #333333;
              word-spacing: 3px;
              text-align: center;
+             margin-left: 12px;
              margin-top: -19px;
          }    
          .six-container > .rei > .th{
@@ -931,8 +1097,9 @@
          padding-right: 1px;
          }
          .six-container > .images4 {
-             float: right;
-             margin-top: -372px;
+             position: absolute;
+             margin-left: 253px;
+             margin-top: -1px;
           }
           img.thirtysix,img.thirtyseven{
             display: none;
@@ -941,20 +1108,20 @@
               display: initial;
             width: 168px;
             height: 136px;  
-            margin-left: 120px;
-            }
+             }
             img.fourtyone { 
                 display: initial;
                 width: 206px;
-                height: 138px;
-                margin-left: 80px;
-                margin-top: 202px;  
+                height: 146px;
+                margin-left: -40px;
+                margin-top: 199px;  
             } 
             .box10-contact{
+                position: absolute;
                 display: flex;
                 flex-direction: column;
                 margin-left: 6px;
-                margin-top: 169px;
+                margin-top: 512px;
         }
            .box10-contact > div{
                 width: 386px;
@@ -1013,9 +1180,111 @@
             color: white;
             padding-right: 4px;
             }  
+            .last{
+                margin-left: 16px;
+                margin-top: 16.5px;  
+            }
+         .last > div{
+             position: absolute;
+             display: flex;
+             flex-direction: row;
+             margin-top: 1076px;
+         } 
+            .last >div >.fourtytwo{
+              width: 46px;
+              height: 42px;
+          }  
+          .last > div >.po{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 21px;
+            line-height: 140%;
+            color: #121212;
+            margin-top: 6.5px;
+          }
+          .last > div >.nv{
+              width: 400px;
+            font-family: Heebo;
+            font-size: 17px;
+            line-height: 20px;
+            color: #2F2E36;
+            word-spacing: 6px;
+            margin-left: -123px;
+            margin-top: 54px;
+          }
+          
+          .li{
+              position: absolute;
+              margin-left:-59px;
+            }
+          .li > ul{
+              margin-top: 156px;
+            margin-left: 28px;
+          }
+          .li > ul > p{
+            font-family: Heebo;
+            font-weight: bold;
+            font-size: 18px;
+            line-height: 20px;
+            color: #121212;
+          }
+          .li > ul > li{
+              list-style: none;
+            font-family: Heebo;
+            font-size: 17px;
+            line-height: 20px;
+            color: #2F2E36;
+            margin-top: 13px;
+          }
+          .li2{
+              position: absolute;
+            margin-left:-59px;
+        }
+        .li2 > ul{
+            margin-top: 407.5px;
+          margin-left: 28px;
+        }
+        .li2 > ul > p,.nm2{
+          font-family: Heebo;
+          font-weight: bold;
+          font-size: 18px;
+          line-height: 20px;
+          color: #121212;
+        }
+        .li2 > ul > li{
+            list-style: none;
+          font-family: Heebo;
+          font-size: 17px;
+          line-height: 20px;
+          color: #2F2E36;
+          margin-top: 13px;
+        }
+           img.fourtythree{
+              width: 160px;
+              height: 34px;
+              margin-left: -20px;
+          }
+          img.fourtyfour{
+            width: 180px;
+            height: 106.5px;
+            margin-top: 14px;
+            margin-left: -18px;
+        }
+        img.fourtyfive{
+            display: none;
+        } 
+        img.fourtysix{
+            display: initial;
+            position: absolute;
+            width: 198px;
+            margin-top: 1736px;
+            margin-left: 73px;
+        } 
+        
     }
     @media only screen and (max-width:375px){
         .six-container > .images3 {
+            position: absolute;
             margin-left: 13px;
             margin-top: -8px;
          }  
@@ -1031,10 +1300,12 @@
              display: initial;
              width: 180px;
              height: 118px;
-             margin-top: 232px;  
+             margin-top: 271px;  
          } 
          .six-container > .rei{
-             margin-top: -376px;
+             position: absolute;
+             margin-left: -3px;
+             margin-top: 150px;
          }    
           .six-container > .rei > .reg{
              font-family: Heebo;
@@ -1043,7 +1314,8 @@
              line-height: 140%;
              text-transform: capitalize;
              color: #222222; 
-             text-align: center;  
+             text-align: center;
+             margin-left: 23px;  
           } 
           .six-container > .rei > .jo{
              font-family: Heebo;
@@ -1085,26 +1357,14 @@
          padding-right: 1px;
          }
          .six-container > .images4 {
-             float: right;
-            margin-top: -398px;
+            position: absolute;
+            margin-left: 110px;
+            margin-top: -8px;
           }
           img.thirtysix,img.thirtyseven{
             display: none;
         }    
         img.fourty { 
-            display: initial;
-          width: 168px;
-          height: 136px;  
-          margin-left: 260px;
-          }
-          img.fourtyone { 
-              display: initial;
-              width: 186px;
-              height: 138px;
-              margin-left: 250px;
-              margin-top: 228px;  
-          }
-          img.fourty { 
             display: initial;
           width: 168px;
           height: 136px;  
@@ -1115,13 +1375,14 @@
               width: 206px;
               height: 138px;
               margin-left: 80px;
-              margin-top: 202px;  
+              margin-top: 256px;  
           } 
           .box10-contact{
+              position: absolute;
               display: flex;
               flex-direction: column;
               margin-left: 12px;
-              margin-top: 148px;
+              margin-top: 552px;
       }
          .box10-contact > div{
               width: 356.8px;
@@ -1179,5 +1440,102 @@
           padding-top: 9px;
           color: white;
           padding-right: 4px;
-          }     
+          }   
+          .last{
+            margin-left: 24px;
+            margin-top: 16.5px;  
+        }
+     .last > div{
+         position: absolute;
+         display: flex;
+         flex-direction: row;
+         margin-top: 1110px;
+     } 
+        .last >div >.fourtytwo{
+          width: 46px;
+          height: 42px;
+      }  
+      .last > div >.po{
+        font-family: Heebo;
+        font-weight: bold;
+        font-size: 21px;
+        line-height: 140%;
+        color: #121212;
+        margin-top: 6.5px;
+      }
+      .last > div >.nv{
+          width: 360px;
+        font-family: Heebo;
+        font-size: 17px;
+        line-height: 20px;
+        color: #2F2E36;
+        word-spacing: 6px;
+        margin-left: -123px;
+        margin-top: 54px;
+      }
+      
+      .li{
+          position: absolute;
+          margin-left:-59px;
+        }
+      .li > ul{
+          margin-top: 156px;
+        margin-left: 28px;
+      }
+      .li > ul > p{
+        font-family: Heebo;
+        font-weight: bold;
+        font-size: 18px;
+        line-height: 20px;
+        color: #121212;
+      }
+      .li > ul > li{
+          list-style: none;
+        font-family: Heebo;
+        font-size: 17px;
+        line-height: 20px;
+        color: #2F2E36;
+        margin-top: 13px;
+      }
+      .li2{
+          position: absolute;
+        margin-left:-59px;
+    }
+    .li2 > ul{
+        margin-top: 407.5px;
+      margin-left: 28px;
+    }
+    .li2 > ul > p,.nm2{
+      font-family: Heebo;
+      font-weight: bold;
+      font-size: 18px;
+      line-height: 20px;
+      color: #121212;
+    }
+    .li2 > ul > li{
+        list-style: none;
+      font-family: Heebo;
+      font-size: 17px;
+      line-height: 20px;
+      color: #2F2E36;
+      margin-top: 13px;
+    }
+       img.fourtythree{
+          width: 160px;
+          height: 34px;
+          margin-left: -20px;
+      }
+      img.fourtyfour{
+        width: 180px;
+        height: 106.5px;
+        margin-top: 14px;
+        margin-left: -18px;
+    }  
+    img.fourtysix{
+        display: initial;
+        position: absolute;
+        width: 198px;
+        margin-top: 1776px;
+        margin-left: 82px;
+    } 
     }
